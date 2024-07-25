@@ -11,6 +11,9 @@ Empowering educators with AI tools and resources for enhanced teaching and learn
 
 ## Resources
 
+- [Magic School AI html](https://github.com/teaghan/AI-Enhanced-Education/blob/main/html_files/MagicSchoolAI.html)
+- [Magic School AI notebook](https://github.com/teaghan/AI-Enhanced-Education/blob/main/notebooks/MagicSchoolAI.ipynb)
+
 
 ## Custom GPTs
 
