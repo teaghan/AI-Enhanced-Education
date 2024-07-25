@@ -2,7 +2,7 @@
 layout: home_default
 ---
 
-# AI-Enhanced-Education
+# AI-Enhanced Education
 
 Empowering educators with AI tools and resources for enhanced teaching and learning.
 
