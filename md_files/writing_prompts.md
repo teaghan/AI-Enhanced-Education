@@ -1,30 +1,37 @@
+**Preface:**
+
+Imagine you have a tool that is really good at predicting the next most logical word given a bunch of previous words. You want to interact with this tool to get a particular result - lets say you want to design a multistep activity to have students derive the quadratic formula.
+
+Before you begin interacting with the tool, it doesn't know that you want to do that. What type of information could you give this tool such that you get the best response based on your expectations?
+
+I'm sure that if you gave it some thought, you would come up with ideas that overlap with the following:
+
+- Providing a well-defined task
+- Explaining the context of the scenario
+- Describing the format that you want the activity in
+- Providing an example of what you want the activity to look like
+- Providing any additional background information that the tool could reference
+
+Well, this is the mindset you have to have when developing a quality "prompt" with a tool like ChatGPT. It is essentially designed to predict the next most logical word given a previous set of text. Therefore, the more information and clear instruction you provide, the better the response you will get!
+
+When I hear someone say, "ChatGPT is bad at doing so-and-so..", my immediate reaction is, "Show me the bad prompt it was given."
+
+
 # Key Components of a Good Prompt
+
 
 Crafting effective prompts is a nuanced art that goes beyond mere instruction; it's about orchestrating a collection of elements to guide language models like ChatGPT. We will delve into the key components of a good prompt, including:
 
-1. A [Task](#1.-Task)
-2. [Context](#2.-Context)
-3. [Exemplars](#3.-Exemplars)
-4. A [Persona](#4.-Persona)
-5. [Format](#5.-Format)
-6. [Tone](#6.-Tone)
-7. [Chain of thought](#7.-Chain-of-thought)
+1. A Task
+2. Context
+3. Exemplars
+4. A Persona
+5. Format
+6. Tone
+7. Chain of thought
+8. Background information
 
 We will look at examples of each of these components, then combine multiple components to form [complete examples of prompts](#Complete-Examples) that could be used by a teacher.
-
-In [another tutorial](https://github.com/teaghan/educational-prompt-engineering/blob/main/LLM_mechanisms.ipynb), we talk about the internal mechanisms of an Large Language Model (LLM) like GPT and how the above components relate to these mechanisms.
-
-I also provide [a tutorial](https://github.com/teaghan/educational-prompt-engineering/blob/main/developing_prompt_templates.ipynb) on how to go about crafting prompt templates to make every day tasks more efficient.
-
-Jeff Su provides some really nice introductory videos on the key components of a good prompt:
-
-- [Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!](https://www.youtube.com/watch?v=jC4v5AS4RIM)
-
-- [Beginner to Pro with ChatGPT in One Video!](https://www.youtube.com/watch?v=bkf3XBOj2PE)
-
-Lilach and Ethan Mollick also have a great video:
-
-- [Practical AI for Instructors and Students Part 3: Prompting AI](https://www.youtube.com/watch?v=wbGKfAPlZVA&list=PL0EdWFC9ZZrUAirFa2amE4Hg05KqCWhoq&index=3)
 
 ## 1. Task
 
@@ -55,7 +62,8 @@ Provide the LLM with context by **considering the audience**, their background, 
 - Define the audience precisely, specifying background details.
 - Consider the audience's **environment** and what success looks like for them.
 
-<div class="alert alert-info"><h4>Examples of Context</h4><p>
+<div class="alert alert-block alert-info">
+<b>Examples of Context</b> 
 
 "Generate a Creative Writing Lesson Plan for your grade 11 English class. The students have recently completed a unit on modern poetry, and their background includes exposure to various poetic devices and forms."
 
@@ -67,7 +75,7 @@ Provide the LLM with context by **considering the audience**, their background, 
 
 "Generate discussion questions for a science lab on chemical reactions in your grade 11 chemistry class. The students have practical experience with basic chemical reactions and are expected to apply their knowledge to more complex scenarios."
 
-</p></div>
+</div>
 
 ## 3. Exemplars
 
@@ -251,50 +259,9 @@ Url: https://en.wikipedia.org/wiki/Scientific_method
 
 </p></div>
 
+### Resources
 
-<div class="alert alert-info"><h4>Strategies for a New Science Teacher</h4><p>
+* [Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!](https://www.youtube.com/watch?v=jC4v5AS4RIM)
+* [Beginner to Pro with ChatGPT in One Video!](https://www.youtube.com/watch?v=bkf3XBOj2PE)
+* [Practical AI for Instructors and Students Part 3: Prompting AI](https://www.youtube.com/watch?v=wbGKfAPlZVA&list=PL0EdWFC9ZZrUAirFa2amE4Hg05KqCWhoq&index=3)
 
-You are an experienced science teacher who effectively fosters interesting class discussions in the classroom. You are providing advice to a teacher who is new to the role. Provide a list of five strategies that you could use to encourage class discussion. For each strategy, include an example that is relevant to a Science 9 class.
-
-</p></div>
-
-**ChatGPT:**
-
-**1. Engage with Thought-Provoking Questions:**
-   - **Strategy:** Begin class with open-ended questions that provoke curiosity and stimulate critical thinking. Encourage students to share their thoughts, hypotheses, and opinions.
-   - **Example (Science 9):** "Why do you think certain animals exhibit hibernation behaviors during winter? How might this adaptation contribute to their survival in different ecosystems?"
-
-**2. Real-World Applications:**
-   - **Strategy:** Connect scientific concepts to real-world scenarios, making the material relevant and engaging for students. Prompt discussions on the practical implications of scientific knowledge.
-   - **Example (Science 9):** "Considering the principles of heat transfer we discussed, how do insulated water bottles work, and how might this knowledge be useful in designing energy-efficient homes?"
-
-**3. Group Problem-Solving:**
-   - **Strategy:** Organize students into small groups to collaboratively solve scientific problems or conduct experiments. Facilitate group discussions where students share their approaches, findings, and potential challenges.
-   - **Example (Science 9):** "In your groups, design an experiment to investigate the factors affecting plant growth. Discuss the variables you'll consider, the procedures you'll follow, and the potential outcomes."
-
-**4. Current Events and Scientific News:**
-   - **Strategy:** Incorporate discussions around recent scientific discoveries, news articles, or advancements in the field. Encourage students to express their opinions, analyze the implications, and consider the ethical aspects of scientific developments.
-   - **Example (Science 9):** "Let's discuss the recent breakthrough in genetic engineering. How do you think gene-editing technologies might impact medicine, agriculture, and society as a whole?"
-
-**5. Socratic Questioning:**
-   - **Strategy:** Use Socratic questioning techniques to guide students in exploring and understanding scientific concepts. Encourage them to analyze evidence, make connections, and draw conclusions through guided inquiry.
-   - **Example (Science 9):** "Why do you think certain elements in the periodic table exhibit similar chemical properties? How does the arrangement of electrons play a role in determining these properties?"
-
-**Key Tips for Facilitating Discussions:**
-   
-- **Create a Supportive Environment:**
-  - Foster a classroom culture where students feel comfortable expressing their thoughts without fear of judgment.
-
-- **Active Listening:**
-  - Model and encourage active listening skills. Acknowledge and validate students' contributions to promote a respectful discussion atmosphere.
-
-- **Diverse Perspectives:**
-  - Emphasize the value of diverse perspectives. Encourage students to consider different viewpoints and challenge their own assumptions.
-
-- **Moderation and Inclusivity:**
-  - Moderate discussions to ensure everyone has an opportunity to participate. Prompt quieter students to share their ideas and create an inclusive environment.
-
-- **Connect to Student Interests:**
-  - Relate scientific concepts to topics and phenomena that resonate with the interests and experiences of the students.
-
-By employing these strategies and tips, the new science teacher can create a dynamic and engaging classroom environment that promotes active participation and meaningful discussions among Science 9 students.
