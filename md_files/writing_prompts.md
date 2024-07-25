@@ -57,7 +57,7 @@ Convey the desired task by using an **"Action Verb"**.
 
 ## 2. Context
 
-Provide the LLM with context by **considering the audience**, their background, and the desired success criteria. The context should be limited to what is most relevant.
+Provide ChatGPT with context by **considering the audience**, their background, and the desired success criteria. The context should be limited to what is most relevant.
 
 #### Key Considerations:
 
@@ -85,7 +85,7 @@ Illustrate the **reasoning process** and **structure** you expect the language m
 <div class="alert alert-info"><h4>Example of Providing Exemplars</h4>
 <p>You are teaching linear equations to math 10 students. Develop a word problem that teenagers can relate to their own lives. The problem should include three questions (a-c). For example:</p>
 <ul>
-  <li>A school decides to sell t-shirts to raise money. Since there is an initial investment, if they sell 20 shirts, they will still lose \\$20 overall. If they sell 100 shirts, they will make \\$700. 
+  <li>A school decides to sell t-shirts to raise money. Since there is an initial investment, if they sell 20 shirts, they will still lose $20 overall. If they sell 100 shirts, they will make $700. 
     <ol type="a">
       <li>What is the slope of this relationship?</li>
       <li>What is their net profit if they do not sell any t-shirts?</li>
@@ -139,41 +139,30 @@ Include any additional background information that can help guide the response. 
 
 * Provide relevant background details that are necessary for understanding the task.
 * Include links or references to additional resources that can inform the response.
-* Use various forms of information like PDFs, Excel sheets, URLs, or direct content.
+* Use various forms of information like PDFs, Excel sheets, URLs, or directly copy-and-pasting content.
 
 <div class="alert alert-info"><h4>Examples of Background Information</h4>
 <ul>
   <li>"Include information from the attached PDF on course expectations and content."</li>
   <li>"Refer to the provided Excel sheet for data on student performance trends."</li>
   <li>"Consider the curriculum guidelines outlined in the linked document."</li>
-  <li>"Incorporate insights from recent educational research on effective teaching strategies."</li>
-  <li>"Use examples from the previous year's lesson plans to maintain consistency."</li>
-  <li>"Review the notes and highlights from the textbook chapters covered in class."</li>
+  <li>"Incorporate insights from recent educational research on effective teaching strategies, found in the url below."</li>
+  <li>"Review the notes and highlights from the textbook copied below."</li>
   <li>"Use the summary of key concepts provided in the lecture slides."</li>
-  <li>"Include a link to the online article that discusses the historical context relevant to the topic."</li>
 </ul>
 </div>
 
 ## 7. Tone
 
-Specify the desired tone for the response, whether it's "8
-
-th grade English", a casual/formal voice, witty output, or enthusiasm. Clearly communicate the emotional or tonal aspect you're aiming for.
+Specify the desired tone for the response, whether it's "8th grade English", a casual/formal voice, witty output, or enthusiasm. Clearly communicate the emotional or tonal aspect you're aiming for.
 
 <div class="alert alert-info"><h4>Examples of Tone</h4>
 <ul>
   <li>"...Craft the geography lesson plan with a tone that exudes enthusiasm. You want students to feel excited about learning about different cultures and their impact on global communities."</li>
-  <li>"...Provide the feedback on the science experiment report with a formal tone. Maintain a professional demeanor, offering constructive criticism while emphasizing the importance of precision and scientific rigor."</li>
   <li>"...Generate the discussion questions with a casual and approachable tone. Encourage students to express their opinions freely, fostering an atmosphere of open dialogue around the themes of the current novel."</li>
   <li>"...Write the reflective essay prompt with a tone that conveys seriousness and intellectual depth. Encourage students to reflect on the historical significance of the events studied, fostering critical thinking and analytical skills."</li>
   <li>"...Develop the creative writing assignment with a witty and playful tone. Challenge students to craft imaginative narratives, infusing humor and clever twists to make the writing process enjoyable and engaging."</li>
 </ul>
-</div>
-
-Alternatively, you can describe the *feeling* you're going for and ask ChatGPT to come up with the tone:
-
-<div class="alert alert-info"><h4>Example</h4>
-<p>"I want to be taken seriously without coming off as too stuck up. Can you please give me a list of 5 tone keywords that I can include in a prompt for ChatGPT?"</p>
 </div>
 
 ## 8. Chain of Thought
@@ -208,14 +197,11 @@ Chaining is an advanced technique in prompt engineering where multiple prompts a
 <p>Then look up the concept and examples of the concept. Provide a clear multiple-paragraph explanation of the concept using 2 specific examples and give me 5 analogies I can use to understand the concept in different ways.</p>
 </div>
 
-The below prompt can help you use ChatGPT to develop a syllabus for your class, which will likely require several iterations of back-and-forth conversation.
-
 <div class="alert alert-info"><h4>Syllabus Creation</h4>
 <p>You are an expert learning designer specializing in building syllabi for classes that prompt direct instruction, active learning, retrieval practice, formative assessment, low-stakes testing, making connections between concepts, uncovering misconceptions, and interleaving. First ask me what course I’m teaching, including subject matter. Wait for my response. Then ask what learning levels my students are (high school or college). Wait for my response. Then ask how many times my students and I will meet (have class) over the course of a semester and what topics I generally cover. Wait for my response. Then design a syllabus that makes sure students learn effectively.</p>
 </div>
 
 By using chaining, you can harness the power of AI to tackle complex tasks in a systematic and effective manner, ensuring that each part of the task is thoroughly addressed and integrated into the final result.
-
 
 * * *
 
