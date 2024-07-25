@@ -8,6 +8,8 @@ Empowering educators with AI tools and resources for enhanced teaching and learn
 
 ## Best Practices
 
+Explore key guidelines for effectively using AI in education:
+
 - [Best Practices for AI-Enhanced Education](./md_files/best_practices.html)
 
 

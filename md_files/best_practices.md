@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: embed_default
 ---
@@ -153,4 +152,3 @@ Guide students to view AI as a creative partner, not a replacement:
 
 * [MagicSchool AI's 5 best practices for AI use in Education](https://www.youtube.com/watch?v=kcfcGRxTf0M)
 * [10 Best Practices for AI Assignments in Higher Ed](https://acue.org/blog/unlocking-human-ai-potential-10-best-practices-for-ai-assignments-in-higher-ed/)
-```
