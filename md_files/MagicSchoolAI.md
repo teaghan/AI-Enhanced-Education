@@ -2,7 +2,16 @@
 layout: embed_default
 ---
 
-[Walkthrough for educators](https://www.youtube.com/watch?v=f_Q0I9zuksw)
+<div class="alert alert-block alert-success">
+  <h4>Video</h4>
+  <p>Watch <a href="https://www.youtube.com/watch?v=f_Q0I9zuksw" target="_blank">this video</a> for a quick run down on what Magic School AI has to offer!</p>
+</div>
+
+
+<div class="alert alert-block alert-info">
+<b>Did You Know?</b> A day on Mercury (one full rotation) lasts 59 Earth days, while a year (one orbit around the Sun) takes just 88 Earth days.
+</div>
+
 
 [Walkthrough for students](https://www.youtube.com/watch?v=XEDrkZ43qR8)
 

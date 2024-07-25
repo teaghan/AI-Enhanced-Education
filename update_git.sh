@@ -1,8 +1,8 @@
 #!/bin/bash
 
 git add "_layouts/*.html"
-git add "images/*"
-git add "md_files/*.md"
+find images -type f ! -path '*/.ipynb_checkpoints/*' -print0 | xargs -0 git add
+find md_files -type f -name '*.md' ! -path '*/.ipynb_checkpoints/*' -print0 | xargs -0 git add
 git add "_config.yml"
 git add "index.md"
 git add "README.md"
