@@ -64,8 +64,7 @@ Provide the LLM with context by **considering the audience**, their background, 
 * Define the audience precisely, specifying background details.
 * Consider the audience's **environment** and what success looks like for them.
 
-<div class="alert alert-block alert-info">
-<b>Examples of Context</b> 
+<div class="alert alert-block alert-info"><h4>Examples of Context</h4> 
 <ul>
   <li>"Generate a Creative Writing Lesson Plan for your grade 11 English class. The students have recently completed a unit on modern poetry, and their background includes exposure to various poetic devices and forms."</li>
   <li>"Analyze and edit the following student essay in your grade 9 science class. The students have just concluded a unit on cellular biology, and success criteria involve demonstrating an understanding of basic cellular structures and functions."</li>
@@ -200,9 +199,8 @@ Chaining is an advanced technique in prompt engineering where multiple prompts a
 
 <div class="alert alert-info"><h4>Examples of Chaining</h4>
 <ul>
-  <li>**Writing an Essay:** Start with a prompt to generate an outline, then use the outline to create sections of the essay, and finally, refine each section for coherence and style.</li>
-  <li>**Creating a Lesson Plan:** Begin with a prompt to outline the learning objectives, follow with prompts to develop activities for each objective, and end with a prompt to design assessments based on the activities.</li>
-  <li>**Research and Analysis:** Use an initial prompt to gather relevant information on a topic, then create summaries of the information, and finally, generate a critical analysis based on the summaries.</li>
+  <li>Creating a Lesson Plan: Begin with a prompt to outline the learning objectives, follow with prompts to develop activities for each objective, and end with a prompt to design assessments based on the activities.</li>
+  <li>Research and Analysis: Use an initial prompt to gather relevant information on a topic, then create summaries of the information, and finally, generate a critical analysis based on the summaries.</li>
 </ul>
 </div>
 
@@ -213,35 +211,32 @@ By using chaining, you can harness the power of AI to tackle complex tasks in a 
 
 ## Complete Examples
 
-### Example 1: Developing a Physics Review Quiz
+<div class="alert alert-info"><h4>Example 1: Developing a Physics Review Quiz</h4>
+<p>You are a teacher who excels at creating thought-provoking questions that encourage discussion in your classroom. Your physics 11 class has just finished the unit on Newton's Laws. Write a set of 4 review questions that you could ask your physics 11 students to ensure that they have grasped the following concepts: (1) the connection between a net force and acceleration, (2) the concept of a "normal force", (3) friction, and (4) Newton's third law. For example:</p>
+<ol>
+  <li>A 10 kg box that is initially at rest on a horizontal surface is then pushed with a horizontal force of 20 N. If the coefficient of static friction is 0.25, will the box move?</li>
+</ol>
+</div>
 
-```
-You are a teacher who excels at creating thought-provoking questions that encourage discussion in your classroom. Your physics 11 class has just finished the unit on Newton's Laws. Write a set of 4 review questions that you could ask your physics 11 students to ensure that they have grasped the following concepts: (1) the connection between a net force and acceleration, (2) the concept of a "normal force", (3) friction, and (4) Newton's third law. For example:
+<div class="alert alert-info"><h4>Example 2: Writing a Report Card Comment</h4>
+<p>Use a professional, yet supportive tone to write a report card comment for Taylor who is a student in your History 11 class. The comment should be a single paragraph.</p>
+<p>Their strengths are:</p>
+<ul>
+  <li>Positive classroom behavior</li>
+  <li>Contributes to class discussion</li>
+  <li>Shows understanding through conversation</li>
+</ul>
+<p>Their areas for improvement are:</p>
+<ul>
+  <li>Articulating their understanding through written work</li>
+  <li>Distracting others during independent work time</li>
+  <li>Using class time effectively</li>
+</ul>
+</div>
 
-1. A 10 kg box that is initially at rest on a horizontal surface is then pushed with a horizontal force of 20 N. If the coefficient of static friction is 0.25, will the box move?
-```
-
-### Example 2: Writing a Report Card Comment
-
-```
-Use a professional, yet supportive tone to write a report card comment for Taylor who is a student in your History 11 class. The comment should be a single paragraph.
-
-Their strengths are:
-- Positive classroom behavior
-- Contributes to class discussion
-- Shows understanding through conversation
-
-Their areas for improvement are:
-- Articulating their understanding through written work
-- Distracting others during independent work time
-- Using class time effectively
-```
-
-### Example 3: Creating an Engaging Math Lesson Plan
-
-```
-You are a math teacher who excels at making real-world connections to math. Design a comprehensive lesson plan for an 80-minute grade 8 math class that introduces the concept of linear equations through graphs and tables of values. Incorporate real-world examples to make the lesson engaging and relevant. Include the following sections in the lesson plan: (1) the learning objectives, (2) step-by-step activities, and (3) the assessment methods. Additionally, highlight any interactive elements or visual aids that will enhance student understanding.
-```
+<div class="alert alert-info"><h4>Example 3: Creating an Engaging Math Lesson Plan</h4>
+<p>You are a math teacher who excels at making real-world connections to math. Design a comprehensive lesson plan for an 80-minute grade 8 math class that introduces the concept of linear equations through graphs and tables of values. Incorporate real-world examples to make the lesson engaging and relevant. Include the following sections in the lesson plan: (1) the learning objectives, (2) step-by-step activities, and (3) the assessment methods. Additionally, highlight any interactive elements or visual aids that will enhance student understanding.</p>
+</div>
 
 ### Resources
 
