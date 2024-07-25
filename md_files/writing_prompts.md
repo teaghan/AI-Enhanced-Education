@@ -15,33 +15,35 @@ If you think about it, you might come up with ideas like these:
 * Describing the format you want for the activity
 * Providing an example of what you want the activity to look like
 * Including any additional background information the tool could reference
-* This is the mindset you need when developing a quality prompt for a tool like ChatGPT. It’s designed to predict the next most logical word based on the previous text. The more information and clear instructions you provide, the better the response you’ll get!
 
-When someone says, "ChatGPT is bad at doing so-and-so," my immediate reaction is, "Show me the bad prompt it was given."
+This is the mindset you need when developing a quality prompt for a tool like ChatGPT. It’s designed to predict the next most logical word based on the previous text. The more information and clear instructions you provide, the better the response you’ll get!
+
+> When someone says, "ChatGPT is bad at doing so-and-so," my immediate reaction is, "Show me the bad prompt it was given."
 
 * * *
 
 Crafting effective prompts is a nuanced art that goes beyond mere instruction; it's about orchestrating a collection of elements to guide language models like ChatGPT. We will delve into the key components of a good prompt, including:
 
-1. A Task
-2. Context
-3. Exemplars
-4. A Persona
-5. Format
-6. Tone
-7. Chain of thought
-8. Background information
+1. A [Task](./md_files/writing_prompts.html#1-task)
+2. [Context](./md_files/writing_prompts.html#2-context)
+3. [Exemplars](./md_files/writing_prompts.html#3-exemplars)
+4. [A Persona](./md_files/writing_prompts.html#1-task)
+5. [Format](./md_files/writing_prompts.html#4-format)
+6. [Background information](./md_files/writing_prompts.html#6-backgorund-information)
+7. [Tone](./md_files/writing_prompts.html#7-tone)
+8. [Chain of thought](./md_files/writing_prompts.html#8-chain-of-thought)
 
-We will look at examples of each of these components, then combine multiple components to form [complete examples of prompts](./md_files/writing_prompts.html#Complete-Examples) that could be used by a teacher.
+We will look at examples of each of these components, then combine multiple components to form [complete examples of prompts](./md_files/writing_prompts.html#complete-examples) that could be used by a teacher.
 
 ## 1. Task
 
 Convey the desired task by using an **"Action Verb"**.
 
 #### Key Considerations:
-- Use action verbs like generate, give, write, analyze, edit.
-- Clearly state the intended outcome to guide the model effectively.
-- You can include multiple tasks within a single prompt.
+
+* Use action verbs like generate, give, write, analyze, edit.
+* Clearly state the intended outcome to guide the model effectively.
+* You can include multiple tasks within a single prompt.
 
 <div class="alert alert-info"><h4>Examples of Tasks</h4><p>
 "Generate a Creative Writing Lesson Plan..."
@@ -60,16 +62,17 @@ Convey the desired task by using an **"Action Verb"**.
 Provide the LLM with context by **considering the audience**, their background, and the desired success criteria. The context should be limited to what is most relevant.
 
 #### Key Considerations:
-- Define the audience precisely, specifying background details.
-- Consider the audience's **environment** and what success looks like for them.
+
+* Define the audience precisely, specifying background details.
+* Consider the audience's **environment** and what success looks like for them.
 
 <div class="alert alert-block alert-info">
 <b>Examples of Context</b> 
-"Generate a Creative Writing Lesson Plan for your grade 11 English class. The students have recently completed a unit on modern poetry, and their background includes exposure to various poetic devices and forms."
-"Analyze and edit the following student essay in your grade 9 science class. The students have just concluded a unit on cellular biology, and success criteria involve demonstrating an understanding of basic cellular structures and functions."
-"Create math word problems for a quiz on quadratic equations for your grade 10 algebra class. The students are familiar with factoring and solving linear equations and are now transitioning to quadratic equations."
-"Write a reflective journal prompt for your grade 12 history class. The students have been studying World War II, and the context includes exploring the socio-political impacts of the war on different regions."
-"Generate discussion questions for a science lab on chemical reactions in your grade 11 chemistry class. The students have practical experience with basic chemical reactions and are expected to apply their knowledge to more complex scenarios."
+* "Generate a Creative Writing Lesson Plan for your grade 11 English class. The students have recently completed a unit on modern poetry, and their background includes exposure to various poetic devices and forms."
+* "Analyze and edit the following student essay in your grade 9 science class. The students have just concluded a unit on cellular biology, and success criteria involve demonstrating an understanding of basic cellular structures and functions."
+* "Create math word problems for a quiz on quadratic equations for your grade 10 algebra class. The students are familiar with factoring and solving linear equations and are now transitioning to quadratic equations."
+* "Write a reflective journal prompt for your grade 12 history class. The students have been studying World War II, and the context includes exploring the socio-political impacts of the war on different regions."
+* "Generate discussion questions for a science lab on chemical reactions in your grade 11 chemistry class. The students have practical experience with basic chemical reactions and are expected to apply their knowledge to more complex scenarios."
 </div>
 
 ## 3. Exemplars
@@ -100,8 +103,9 @@ You are teaching linear equations to math 10 students. Develop a word problem th
 Define the persona you want ChatGPT to embody. Imagine someone you'd want instant access to for the task at hand.
 
 #### Key Considerations:
-- Specify the desired characteristics and expertise for the persona.
-- Consider how the persona's traits can enhance the quality of the response.
+
+* Specify the desired characteristics and expertise for the persona.
+* Consider how the persona's traits can enhance the quality of the response.
 
 <div class="alert alert-info"><h4>Examples of Persona</h4><p>
 
@@ -139,7 +143,11 @@ Visualize the exact format you want the end results to have, then describe that 
 
 </p></div>
 
-## 6. Tone
+## 6. Backgorund Information
+
+including information like pdfs or excel sheets that contain course expectations, content, etc.
+
+## 7. Tone
 
 Specify the desired tone for the response, whether it's "8th grade English", a casual/formal voice, witty output, or enthusiasm. Clearly communicate the emotional or tonal aspect you're aiming for.
 
@@ -161,7 +169,7 @@ Alternatively, you can describe the *feeling* you're going for and ask ChatGPT t
 
 <div class="alert alert-info"><h4>Example</h4><p>"I want to be taken seriously without coming off as too stuck up. Can you please give me a list of 5 tone keywords that I can include in a prompt for ChatGPT?"</p></div>
 
-## 7. Chain of thought
+## 8. Chain of thought
 
 Provide a process that a person might follow when accomplishing the given task. This gives ChatGPT a framework to reflect and improve on its response rather than constraining it to get the response right on its first try.
 
@@ -172,6 +180,8 @@ Provide a process that a person might follow when accomplishing the given task. 
 "...Follow these steps: (1) Create an outline for your paragraph, (2) Edit your outline, (3) Write the paragraph."
 
 </p></div>
+
+* * *
 
 ## Complete Examples
 
@@ -246,7 +256,7 @@ You are an English 11 teacher who emphasizes creativity and critical thinking in
 </p></div>
 
 
-<div class="alert alert-info"><h4>Quiz Creator from Webpage (requires GPT Plus or Bing)</h4><p>
+<div class="alert alert-info"><h4>Quiz Creator from Webpage</h4><p>
 
 You are a quiz creator of highly diagnostic quizzes. You will look up how to develop low-stakes tests and diagnostics. You will construct several multiple choice questions to quiz the audience on the topic of the web page in the url below. The questions should be highly relevant and go beyond just facts. Multiple choice questions should include plausible, competitive alternate responses and should not include an "all of the above option." At the end of the quiz, you will provide an answer key and explain the right answer.
 
