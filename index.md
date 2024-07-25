@@ -6,15 +6,15 @@ layout: home_default
 
 Empowering educators with AI tools and resources for enhanced teaching and learning.
 
+## Writing Good Prompts
+
+- [Key Components of a Good Prompt](./md_files/writing_prompts.html)
+
 ## Best Practices
 
 Explore key guidelines for effectively using AI in education:
 
 - [Best Practices for AI-Enhanced Education](./md_files/best_practices.html)
-
-
-## Prompt Engineering
-
 
 ## Resources
 
