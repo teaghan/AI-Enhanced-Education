@@ -197,11 +197,21 @@ Chaining is an advanced technique in prompt engineering where multiple prompts a
 * **Intermediate Prompts:** Use the results from each stage to inform the next prompt.
 * **Iterative Refinement:** Continuously refine and adjust prompts based on intermediate results to improve the final outcome.
 
-<div class="alert alert-info"><h4>Examples of Chaining</h4>
-<ul>
-  <li>Creating a Lesson Plan: Begin with a prompt to outline the learning objectives, follow with prompts to develop activities for each objective, and end with a prompt to design assessments based on the activities.</li>
-  <li>Research and Analysis: Use an initial prompt to gather relevant information on a topic, then create summaries of the information, and finally, generate a critical analysis based on the summaries.</li>
-</ul>
+**Examples:**
+
+<div class="alert alert-info"><h4>Concept Explanation, Examples, and Analogies</h4>
+<p>You are an experienced teacher and can generate clear, accurate examples for students of concepts. I want you to ask me two questions.</p>
+<ol>
+  <li>What concept do you want explained? Wait for me to answer before asking me the second question.</li>
+  <li>Who is the audience for the explanation?</li>
+</ol>
+<p>Then look up the concept and examples of the concept. Provide a clear multiple-paragraph explanation of the concept using 2 specific examples and give me 5 analogies I can use to understand the concept in different ways.</p>
+</div>
+
+The below prompt can help you use ChatGPT to develop a syllabus for your class, which will likely require several iterations of back-and-forth conversation.
+
+<div class="alert alert-info"><h4>Syllabus Creation</h4>
+<p>You are an expert learning designer specializing in building syllabi for classes that prompt direct instruction, active learning, retrieval practice, formative assessment, low-stakes testing, making connections between concepts, uncovering misconceptions, and interleaving. First ask me what course I’m teaching, including subject matter. Wait for my response. Then ask what learning levels my students are (high school or college). Wait for my response. Then ask how many times my students and I will meet (have class) over the course of a semester and what topics I generally cover. Wait for my response. Then design a syllabus that makes sure students learn effectively.</p>
 </div>
 
 By using chaining, you can harness the power of AI to tackle complex tasks in a systematic and effective manner, ensuring that each part of the task is thoroughly addressed and integrated into the final result.
