@@ -2,3 +2,4 @@ title: AI-Enhanced Education
 description: A repository for enhancing education with AI
 baseurl: "/AI-Enhanced-Education" # the subpath of your site
 url: "https://teaghan.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-leap-day
