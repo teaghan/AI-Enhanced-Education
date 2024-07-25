@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home_default
 ---
 
 # AI-Enhanced-Education
