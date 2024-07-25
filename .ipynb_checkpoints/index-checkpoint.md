@@ -7,10 +7,13 @@ title: Home
 
 This repository is dedicated to enhancing education with AI tools and resources.
 
-{% for post in site.posts %}
-  <article>
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p><small>{{ post.date | date_to_string }}</small></p>
-    <p>{{ post.excerpt }}</p>
-  </article>
+## Available Resources
+
+{% for file in site.static_files %}
+  {% if file.path contains 'html_files' %}
+    <article>
+      <h2><a href="{{ file.path }}">{{ file.name }}</a></h2>
+    </article>
+  {% endif %}
 {% endfor %}
+
