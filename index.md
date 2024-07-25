@@ -8,6 +8,7 @@ Empowering educators with AI tools and resources for enhanced teaching and learn
 
 ## Best Practices
 
+- [Best Practices for AI-Enhanced Education](./md_files/best_practices.html)
 
 
 ## Prompt Engineering
