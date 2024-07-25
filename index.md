@@ -10,17 +10,19 @@ Empowering educators with AI tools and resources for enhanced teaching and learn
 
 - [Key Components of a Good Prompt](./md_files/writing_prompts.html)
 
-## Best Practices
+## AI Tools
 
-Explore key guidelines for effectively using AI in education:
+There are so many AI tools out there that are either specific to education or can be used in educational contexts very effectively. The list below are some of the tools that I have explored and found useful; however, this is obviously not exhaustive - newer and better tools are surely going to be developed! 
 
-- [Best Practices for AI-Enhanced Education](./md_files/best_practices.html)
+Each link below will take you to a description of the tool, an explanation on how it can be used, and links to get you on your way. Each tool has useful free user access as well as paid options for improved access (I have no affiliation with any of them).
 
-## Resources
-
+- [ChatGPT]()
+- [Custom GPTs]()
+- [Khanmigo for Teachers]()
 - [Magic School AI](./md_files/MagicSchoolAI.html)
 
+## Best Practices
 
-## Custom GPTs
+Explore some guidelines for effectively using AI in education:
 
-
+- [Best Practices for AI-Enhanced Education](./md_files/best_practices.html)

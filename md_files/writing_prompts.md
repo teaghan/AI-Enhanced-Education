@@ -24,16 +24,16 @@ This is the mindset you need when developing a quality prompt for a tool like Ch
 
 Crafting effective prompts is a nuanced art that goes beyond mere instruction; it's about orchestrating a collection of elements to guide language models like ChatGPT. We will delve into the key components of a good prompt, including:
 
-1. A [Task](./md_files/writing_prompts.html#1-task)
-2. [Context](./md_files/writing_prompts.html#2-context)
-3. [Exemplars](./md_files/writing_prompts.html#3-exemplars)
-4. [A Persona](./md_files/writing_prompts.html#1-task)
-5. [Format](./md_files/writing_prompts.html#4-format)
-6. [Background information](./md_files/writing_prompts.html#6-backgorund-information)
-7. [Tone](./md_files/writing_prompts.html#7-tone)
-8. [Chain of thought](./md_files/writing_prompts.html#8-chain-of-thought)
+1. A [Task](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#1-task)
+2. [Context](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#2-context)
+3. [Exemplars](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#3-exemplars)
+4. [A Persona](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#1-task)
+5. [Format](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#4-format)
+6. [Background information](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#6-backgorund-information)
+7. [Tone](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#7-tone)
+8. [Chain of thought](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#8-chain-of-thought)
 
-We will look at examples of each of these components, then combine multiple components to form [complete examples of prompts](./md_files/writing_prompts.html#complete-examples) that could be used by a teacher.
+We will look at examples of each of these components, then combine multiple components to form [complete examples of prompts](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#complete-examples) that could be used by a teacher.
 
 ## 1. Task
 
