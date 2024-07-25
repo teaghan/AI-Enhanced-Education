@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./MagicSchoolAI.html).
+[Link to another page](./md_files/MagicSchoolAI.html).
 
 There should be whitespace between paragraphs.
 

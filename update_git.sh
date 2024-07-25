@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# Add all notebooks, ignoring checkpoint files and directories
-find "notebooks/" -type f -name "*.ipynb" ! -name "*-checkpoint.ipynb" ! -path "*/.ipynb_checkpoints/*" -exec git add {} \;
-git add "notebooks/figures/*"
+git add "_layouts/*.html"
 git add "images/*"
-git add "html_files/*.html"
-git add "*.md"
-git add "Assistant_Instructions.txt"
+git add "md_files/*.md"
+git add "_config.yml"
+git add "index.md"
 git add "README.md"
+git add "styles.md"
+git add "update_git.sh"
 
 # Commit the changes with a meaningful commit message
 git commit -m "General file update."
