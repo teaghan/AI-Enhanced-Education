@@ -8,6 +8,8 @@ Empowering educators with AI tools and resources for enhanced teaching and learn
 
 ## Writing Good Prompts
 
+In my opinion, the most widely applicable tool and most powerful tool available is ChatGPT. However, the effectiveness of ChatGPT is highly dependent on the users ability to write a good prompt. The page below outlines some of the practices that I find useful for acheiving high quality results with ChatGPT.
+
 - [Key Components of a Good Prompt](./md_files/writing_prompts.html)
 
 ## AI Tools

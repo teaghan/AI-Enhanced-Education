@@ -29,9 +29,9 @@ Crafting effective prompts is a nuanced art that goes beyond mere instruction; i
 3. [Exemplars](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#3-exemplars)
 4. [A Persona](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#1-task)
 5. [Format](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#4-format)
-6. [Background information](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#6-backgorund-information)
+6. [Background Information](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#6-backgorund-information)
 7. [Tone](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#7-tone)
-8. [Chain of thought](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#8-chain-of-thought)
+8. [Chain of Thought](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#8-chain-of-thought)
 
 We will look at examples of each of these components, then combine multiple components to form [complete examples of prompts](https://teaghan.github.io/AI-Enhanced-Education/md_files/writing_prompts.html#complete-examples) that could be used by a teacher.
 
@@ -45,17 +45,15 @@ Convey the desired task by using an **"Action Verb"**.
 * Clearly state the intended outcome to guide the model effectively.
 * You can include multiple tasks within a single prompt.
 
-<div class="alert alert-info"><h4>Examples of Tasks</h4><p>
-"Generate a Creative Writing Lesson Plan..."
-    
-"Analyze and edit the following student essay..."
-    
-"Create math word problems for a quiz on..."
-    
-"Write a reflective journal prompt for history class..."
-    
-"Generate discussion questions for a science lab on..."
-</p></div>
+<div class="alert alert-info"><h4>Examples of Tasks</h4>
+<ul>
+  <li>"Generate a Creative Writing Lesson Plan..."</li>
+  <li>"Analyze and edit the following student essay..."</li>
+  <li>"Create math word problems for a quiz on..."</li>
+  <li>"Write a reflective journal prompt for history class..."</li>
+  <li>"Generate discussion questions for a science lab on..."</li>
+</ul>
+</div>
 
 ## 2. Context
 
@@ -68,11 +66,13 @@ Provide the LLM with context by **considering the audience**, their background, 
 
 <div class="alert alert-block alert-info">
 <b>Examples of Context</b> 
-* "Generate a Creative Writing Lesson Plan for your grade 11 English class. The students have recently completed a unit on modern poetry, and their background includes exposure to various poetic devices and forms."
-* "Analyze and edit the following student essay in your grade 9 science class. The students have just concluded a unit on cellular biology, and success criteria involve demonstrating an understanding of basic cellular structures and functions."
-* "Create math word problems for a quiz on quadratic equations for your grade 10 algebra class. The students are familiar with factoring and solving linear equations and are now transitioning to quadratic equations."
-* "Write a reflective journal prompt for your grade 12 history class. The students have been studying World War II, and the context includes exploring the socio-political impacts of the war on different regions."
-* "Generate discussion questions for a science lab on chemical reactions in your grade 11 chemistry class. The students have practical experience with basic chemical reactions and are expected to apply their knowledge to more complex scenarios."
+<ul>
+  <li>"Generate a Creative Writing Lesson Plan for your grade 11 English class. The students have recently completed a unit on modern poetry, and their background includes exposure to various poetic devices and forms."</li>
+  <li>"Analyze and edit the following student essay in your grade 9 science class. The students have just concluded a unit on cellular biology, and success criteria involve demonstrating an understanding of basic cellular structures and functions."</li>
+  <li>"Create math word problems for a quiz on quadratic equations for your grade 10 algebra class. The students are familiar with factoring and solving linear equations and are now transitioning to quadratic equations."</li>
+  <li>"Write a reflective journal prompt for your grade 12 history class. The students have been studying World War II, and the context includes exploring the socio-political impacts of the war on different regions."</li>
+  <li>"Generate discussion questions for a science lab on chemical reactions in your grade 11 chemistry class. The students have practical experience with basic chemical reactions and are expected to apply their knowledge to more complex scenarios."</li>
+</ul>
 </div>
 
 ## 3. Exemplars
@@ -83,20 +83,18 @@ Illustrate the **reasoning process** and **structure** you expect the language m
 - Exemplars should demonstrate the desired reasoning and response structure.
 - Use specific examples that align with the task.
 
-
-<div class="alert alert-info"><h4>Example of Providing Exemplars</h4><p>
-
-You are teaching linear equations to math 10 students. Develop a word problem that teenagers can relate to their own lives. The problem should include three questions (a-c). For example:
-
-1. A school decides to sell t-shirts to raise money. Since there is an initial investment, if they sell 20 shirts, they will still lose \\$20 overall. If they sell 100 shirts, they will make \\$700. 
-
-(a) What is the slope of this relationship?
-
-(b) What is their net profit if they do not sell any t-shirts?
-
-(c) How many t-shirts do they need to sell to break even?
-
-</p></div>
+<div class="alert alert-info"><h4>Example of Providing Exemplars</h4>
+<p>You are teaching linear equations to math 10 students. Develop a word problem that teenagers can relate to their own lives. The problem should include three questions (a-c). For example:</p>
+<ul>
+  <li>A school decides to sell t-shirts to raise money. Since there is an initial investment, if they sell 20 shirts, they will still lose \\$20 overall. If they sell 100 shirts, they will make \\$700. 
+    <ol type="a">
+      <li>What is the slope of this relationship?</li>
+      <li>What is their net profit if they do not sell any t-shirts?</li>
+      <li>How many t-shirts do they need to sell to break even?</li>
+    </ol>
+  </li>
+</ul>
+</div>
 
 ## 4. Persona
 
@@ -107,21 +105,16 @@ Define the persona you want ChatGPT to embody. Imagine someone you'd want instan
 * Specify the desired characteristics and expertise for the persona.
 * Consider how the persona's traits can enhance the quality of the response.
 
-<div class="alert alert-info"><h4>Examples of Persona</h4><p>
-
-"Act as a teacher with 20 years experience who values the unique learning styles of all students."
-    
-"Embody a persona that values diverse literary forms and encourages students to experiment with various poetic devices."
-
-"Analyze and edit the following student essay as an English professor with expertise in rhetoric and composition, providing feedback that aligns with the expectations of university-level writing."
-
-"Create math word problems for a quiz on algebraic expressions as a meticulous mathematician with a knack for developing real-world scenarios... "
-
-"Infuse a persona that encourages students to explore the cultural nuances and societal structures of historical epochs."
-
-"Act as an eco-conscious biologist committed to fostering ecological awareness in your grade 12 biology class."
-
-</p></div>
+<div class="alert alert-info"><h4>Examples of Persona</h4>
+<ul>
+  <li>"Act as a teacher with 20 years experience who values the unique learning styles of all students."</li>
+  <li>"Embody a persona that values diverse literary forms and encourages students to experiment with various poetic devices."</li>
+  <li>"Analyze and edit the following student essay as an English professor with expertise in rhetoric and composition, providing feedback that aligns with the expectations of university-level writing."</li>
+  <li>"Create math word problems for a quiz on algebraic expressions as a meticulous mathematician with a knack for developing real-world scenarios..."</li>
+  <li>"Infuse a persona that encourages students to explore the cultural nuances and societal structures of historical epochs."</li>
+  <li>"Act as an eco-conscious biologist committed to fostering ecological awareness in your grade 12 biology class."</li>
+</ul>
+</div>
 
 ## 5. Format
 
@@ -129,144 +122,129 @@ Visualize the exact format you want the end results to have, then describe that 
 
 > **Tip:** When using ChatGPT to proofread, specify that any changes should be bolded.
 
-<div class="alert alert-info"><h4>Examples of Format</h4><p>
+<div class="alert alert-info"><h4>Examples of Format</h4>
+<ul>
+  <li>"...Provide the grading rubric for the science experiment as a table with headers, including criteria such as hypothesis formulation, experimental design, and data analysis."</li>
+  <li>"...Structure the lesson plan for the history unit on Ancient Civilizations with the following topic headings: Introduction, Mesopotamia, Egypt, Greece, Rome, and Conclusion."</li>
+  <li>"Provide constructive feedback on the following student essay in a short paragraph, emphasizing strengths, areas for improvement, and encouraging remarks for motivation."</li>
+  <li>"...Write the self-directed learning module for the literature class in markdown format, including clear headings for each section such as 'Reading List,' 'Guided Questions,' and 'Reflective Journal.'"</li>
+  <li>"...When proofreading the chemistry lab, ensure that any suggested changes or corrections are bolded for easy identification and implementation."</li>
+</ul>
+</div>
 
-"...Provide the grading rubric for the science experiment as a table with headers, including criteria such as hypothesis formulation, experimental design, and data analysis."
+## 6. Background Information
 
-"...Structure the lesson plan for the history unit on Ancient Civilizations with the following topic headings: Introduction, Mesopotamia, Egypt, Greece, Rome, and Conclusion."
+Include any additional background information that can help guide the response. This information can be provided in various forms, such as course expectations, content outlines, specific materials, or data sets. The more detailed and relevant the background information, the more tailored and accurate the response will be.
 
-"Provide constructive feedback on the following student essay in a short paragraph, emphasizing strengths, areas for improvement, and encouraging remarks for motivation."
+#### Key Considerations:
 
-"...Write the self-directed learning module for the literature class in markdown format, including clear headings for each section such as 'Reading List,' 'Guided Questions,' and 'Reflective Journal.'"
+* Provide relevant background details that are necessary for understanding the task.
+* Include links or references to additional resources that can inform the response.
+* Use various forms of information like PDFs, Excel sheets, URLs, or direct content.
 
-"...When proofreading the chemistry lab, ensure that any suggested changes or corrections are bolded for easy identification and implementation."
-
-</p></div>
-
-## 6. Backgorund Information
-
-including information like pdfs or excel sheets that contain course expectations, content, etc.
+<div class="alert alert-info"><h4>Examples of Background Information</h4>
+<ul>
+  <li>"Include information from the attached PDF on course expectations and content."</li>
+  <li>"Refer to the provided Excel sheet for data on student performance trends."</li>
+  <li>"Consider the curriculum guidelines outlined in the linked document."</li>
+  <li>"Incorporate insights from recent educational research on effective teaching strategies."</li>
+  <li>"Use examples from the previous year's lesson plans to maintain consistency."</li>
+  <li>"Review the notes and highlights from the textbook chapters covered in class."</li>
+  <li>"Use the summary of key concepts provided in the lecture slides."</li>
+  <li>"Include a link to the online article that discusses the historical context relevant to the topic."</li>
+</ul>
+</div>
 
 ## 7. Tone
 
-Specify the desired tone for the response, whether it's "8th grade English", a casual/formal voice, witty output, or enthusiasm. Clearly communicate the emotional or tonal aspect you're aiming for.
+Specify the desired tone for the response, whether it's "8
 
-<div class="alert alert-info"><h4>Examples of Tone</h4><p>
+th grade English", a casual/formal voice, witty output, or enthusiasm. Clearly communicate the emotional or tonal aspect you're aiming for.
 
-"...Craft the geography lesson plan with a tone that exudes enthusiasm. You want students to feel excited about learning about different cultures and their impact on global communities."
-
-"...Provide the feedback on the science experiment report with a formal tone. Maintain a professional demeanor, offering constructive criticism while emphasizing the importance of precision and scientific rigor."
-
-"...Generate the discussion questions with a casual and approachable tone. Encourage students to express their opinions freely, fostering an atmosphere of open dialogue around the themes of the current novel."
-
-"...Write the reflective essay prompt with a tone that conveys seriousness and intellectual depth. Encourage students to reflect on the historical significance of the events studied, fostering critical thinking and analytical skills."
-
-"...Develop the creative writing assignment with a witty and playful tone. Challenge students to craft imaginative narratives, infusing humor and clever twists to make the writing process enjoyable and engaging."
-
-</p></div>
+<div class="alert alert-info"><h4>Examples of Tone</h4>
+<ul>
+  <li>"...Craft the geography lesson plan with a tone that exudes enthusiasm. You want students to feel excited about learning about different cultures and their impact on global communities."</li>
+  <li>"...Provide the feedback on the science experiment report with a formal tone. Maintain a professional demeanor, offering constructive criticism while emphasizing the importance of precision and scientific rigor."</li>
+  <li>"...Generate the discussion questions with a casual and approachable tone. Encourage students to express their opinions freely, fostering an atmosphere of open dialogue around the themes of the current novel."</li>
+  <li>"...Write the reflective essay prompt with a tone that conveys seriousness and intellectual depth. Encourage students to reflect on the historical significance of the events studied, fostering critical thinking and analytical skills."</li>
+  <li>"...Develop the creative writing assignment with a witty and playful tone. Challenge students to craft imaginative narratives, infusing humor and clever twists to make the writing process enjoyable and engaging."</li>
+</ul>
+</div>
 
 Alternatively, you can describe the *feeling* you're going for and ask ChatGPT to come up with the tone:
 
-<div class="alert alert-info"><h4>Example</h4><p>"I want to be taken seriously without coming off as too stuck up. Can you please give me a list of 5 tone keywords that I can include in a prompt for ChatGPT?"</p></div>
+<div class="alert alert-info"><h4>Example</h4>
+<p>"I want to be taken seriously without coming off as too stuck up. Can you please give me a list of 5 tone keywords that I can include in a prompt for ChatGPT?"</p>
+</div>
 
-## 8. Chain of thought
+## 8. Chain of Thought
 
 Provide a process that a person might follow when accomplishing the given task. This gives ChatGPT a framework to reflect and improve on its response rather than constraining it to get the response right on its first try.
 
-<div class="alert alert-info"><h4>Examples of Chain of Thought</h4><p>
+<div class="alert alert-info"><h4>Examples of Chain of Thought</h4>
+<ul>
+  <li>"...Think it through step by step."</li>
+  <li>"...Follow these steps: (1) Create an outline for your paragraph, (2) Edit your outline, (3) Write the paragraph."</li>
+</ul>
+</div>
 
-"...Think it through step by step."
+### Chaining in Prompt Engineering
 
-"...Follow these steps: (1) Create an outline for your paragraph, (2) Edit your outline, (3) Write the paragraph."
+Chaining is an advanced technique in prompt engineering where multiple prompts are linked together to achieve a more complex or nuanced response from the AI. This method involves breaking down a large task into smaller, manageable parts and then using the output of one prompt as the input for the next. This approach allows for a more structured and refined final output, as each step builds upon the previous one.
 
-</p></div>
+#### Key Considerations:
+
+* **Sequential Breakdown:** Divide the overall task into distinct steps or stages.
+* **Intermediate Prompts:** Use the results from each stage to inform the next prompt.
+* **Iterative Refinement:** Continuously refine and adjust prompts based on intermediate results to improve the final outcome.
+
+<div class="alert alert-info"><h4>Examples of Chaining</h4>
+<ul>
+  <li>**Writing an Essay:** Start with a prompt to generate an outline, then use the outline to create sections of the essay, and finally, refine each section for coherence and style.</li>
+  <li>**Creating a Lesson Plan:** Begin with a prompt to outline the learning objectives, follow with prompts to develop activities for each objective, and end with a prompt to design assessments based on the activities.</li>
+  <li>**Research and Analysis:** Use an initial prompt to gather relevant information on a topic, then create summaries of the information, and finally, generate a critical analysis based on the summaries.</li>
+</ul>
+</div>
+
+By using chaining, you can harness the power of AI to tackle complex tasks in a systematic and effective manner, ensuring that each part of the task is thoroughly addressed and integrated into the final result.
+
 
 * * *
 
 ## Complete Examples
 
-The above examples are incomplete prompts that contain one or two of the key components, but here are some examples that contain several components. For brevity, I only included the responses from ChatGPT that were relatively short.
+### Example 1: Developing a Physics Review Quiz
 
-<div class="alert alert-info"><h4>Developing a set of physics review problems</h4><p>
+```
+You are a teacher who excels at creating thought-provoking questions that encourage discussion in your classroom. Your physics 11 class has just finished the unit on Newton's Laws. Write a set of 4 review questions that you could ask your physics 11 students to ensure that they have grasped the following concepts: (1) the connection between a net force and acceleration, (2) the concept of a "normal force", (3) friction, and (4) Newton's third law. For example:
 
-You are a teacher who excels at creating thought provoking questions that encourage discussion in your classroom. Your physics 11 class has just finished the unit on Newton's Laws. Write a set of 4 review questions that you could ask your physics 11 students to ensure that they have grasped the following concepts: (1) the connection between a net force and acceleration (2) the concept of a "normal force", (3) friction, and (4) Newton's third law. For example:
+1. A 10 kg box that is initially at rest on a horizontal surface is then pushed with a horizontal force of 20 N. If the coefficient of static friction is 0.25, will the box move?
+```
 
-1. A 10 kg box that is initially at rest on a horizontal surface is then pushed with a horizontal force of 20 N. If the coefficient of static friction is 0.25, Will the box move?
-    
-        ChatGPT:
-        1. Net Force and Acceleration:
-           - Imagine a car moving at a constant speed on a straight road. Explain the relationship between the net force acting on the car and its acceleration. How does this relate to Newton's first and second laws? Provide examples to support your explanation.
+### Example 2: Writing a Report Card Comment
 
-        2. Normal Force:
-           - When a person stands on the floor, the floor exerts a normal force upward to support their weight. If the person suddenly jumps up, describe how the normal force changes during the jump. Discuss the factors that affect the normal force in such a scenario and connect your explanation to Newton's laws.
-
-        3. Friction:
-           - Consider a book sliding across a table. Explain how the forces of friction (both static and kinetic) come into play. If the book is initially at rest, describe the forces acting on it before it starts moving, during its motion, and when it comes to a stop. Use appropriate frictional coefficients and discuss the role of friction in maintaining motion and bringing the book to rest.
-
-        4. Newton's Third Law:
-           - Two students, A and B, are playing tug of war. If student A exerts a force of 50 N to the left, what force does student B exert? Explain how Newton's third law is demonstrated in this scenario. Extend your explanation to real-world examples, such as the recoil of a gun when a bullet is fired, to emphasize the universality of this law.
-
-</p></div>
-
-<div class="alert alert-info"><h4>Report Card Comment</h4><p>
-
+```
 Use a professional, yet supportive tone to write a report card comment for Taylor who is a student in your History 11 class. The comment should be a single paragraph.
-    
+
 Their strengths are:
-    
-- Positive classroom behaviour
-    
+- Positive classroom behavior
 - Contributes to class discussion
-    
 - Shows understanding through conversation
 
-Their areas for improvement are: 
-    
+Their areas for improvement are:
 - Articulating their understanding through written work
-    
 - Distracting others during independent work time
-    
 - Using class time effectively
-    
-        ChatGPT:
-        Taylor has demonstrated positive classroom behavior throughout the semester, consistently contributing to class discussions with insightful and thoughtful contributions. They excel in conveying their understanding of historical concepts through verbal communication. However, there is room for improvement in articulating that understanding through written assignments. During independent work time, Taylor occasionally becomes a source of distraction to their peers, impacting the focused atmosphere of the classroom. Additionally, using class time more effectively would greatly benefit Taylor's academic progress. With continued effort in written expression and a mindful approach to independent work, I am confident that Taylor will reach their full potential in History 11. I appreciate their positive attitude and active participation in class.
+```
 
-</p></div>
+### Example 3: Creating an Engaging Math Lesson Plan
 
-<div class="alert alert-info"><h4>Creating an Engaging Math Lesson Plan</h4><p>
-
-You are a math teacher who excels at making real-world connections to math. Design a comprehensive lesson plan for an 80 minutes grade 8 math class that introduces the concept of linear equations through graphs and tables of values. Incorporate real-world examples to make the lesson engaging and relevant. Including the following sections in the lesson plan: (1) the learning objectives (2) step-by-step activities, and (3) the assessment methods. Additionally, highlight any interactive elements or visual aids that will enhance student understanding.
-
-</p></div>
-
-<div class="alert alert-info"><h4>Developing a set of Socials Studies discussion questions</h4><p>
-
-You are a teacher with a passion for fostering open dialogue and critical thinking in your grade 10 social studies class. Your class just finished a unit on Globalization and its impact. Create three discussion questions that will encourage students to reflect on economic, cultural, and environmental aspects. For example: 
-
-1. Reflecting on the interconnectedness of global economies, discuss how advancements in technology and communication might contribute to the interconnectedness of global economies. Use specific examples.
-
-Format your three questions as a numbered list.
-
-</p></div>
-
-<div class="alert alert-info"><h4>Effective Usages of ChatGPT in an English Classroom</h4><p>
-
-You are an English 11 teacher who emphasizes creativity and critical thinking in your classroom. You also appreciate the power of technology. Describe three ways that you could illustrate appropriate usage of ChatGPT in your English 11 classroom. Also provide a list of cautions for your students when using ChatGPT.
-
-</p></div>
-
-
-<div class="alert alert-info"><h4>Quiz Creator from Webpage</h4><p>
-
-You are a quiz creator of highly diagnostic quizzes. You will look up how to develop low-stakes tests and diagnostics. You will construct several multiple choice questions to quiz the audience on the topic of the web page in the url below. The questions should be highly relevant and go beyond just facts. Multiple choice questions should include plausible, competitive alternate responses and should not include an "all of the above option." At the end of the quiz, you will provide an answer key and explain the right answer.
-
-Url: https://en.wikipedia.org/wiki/Scientific_method
-
-</p></div>
+```
+You are a math teacher who excels at making real-world connections to math. Design a comprehensive lesson plan for an 80-minute grade 8 math class that introduces the concept of linear equations through graphs and tables of values. Incorporate real-world examples to make the lesson engaging and relevant. Include the following sections in the lesson plan: (1) the learning objectives, (2) step-by-step activities, and (3) the assessment methods. Additionally, highlight any interactive elements or visual aids that will enhance student understanding.
+```
 
 ### Resources
 
 * [Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!](https://www.youtube.com/watch?v=jC4v5AS4RIM)
 * [Beginner to Pro with ChatGPT in One Video!](https://www.youtube.com/watch?v=bkf3XBOj2PE)
 * [Practical AI for Instructors and Students Part 3: Prompting AI](https://www.youtube.com/watch?v=wbGKfAPlZVA&list=PL0EdWFC9ZZrUAirFa2amE4Hg05KqCWhoq&index=3)
-
