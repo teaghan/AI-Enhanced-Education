@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: embed_default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -8,48 +8,19 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
 > This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+>> This is a nested blockquote
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
+### Here is a table:
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -67,14 +38,12 @@ end
 *   Item foo
 *   Item bar
 *   Item baz
-*   Item zip
 
 ### And an ordered list:
 
 1.  Item one
 1.  Item two
 1.  Item three
-1.  Item four
 
 ### And a nested list:
 
@@ -114,10 +83,18 @@ end
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Links to Resources
 
-```
-The final element.
-```
+Use green boxes to highlight links to external resources, ensuring that the links open in a new tab.
+
+<div class="alert alert-block alert-success">
+  <h4>Video</h4>
+  <p>Watch <a href="https://www.youtube.com/watch?v=f_Q0I9zuksw" target="_blank">this video</a> for a quick run down on what Magic School AI has to offer!</p>
+</div>
+
+
+### Highlighted important text
+
+<div class="alert alert-block alert-info">
+<b>Did You Know?</b> A day on Mercury (one full rotation) lasts 59 Earth days, while a year (one orbit around the Sun) takes just 88 Earth days.
+</div>
