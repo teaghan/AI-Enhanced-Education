@@ -1,3 +1,4 @@
+```markdown
 ---
 layout: embed_default
 ---
@@ -16,7 +17,7 @@ AI systems can produce incorrect or biased content. It is crucial to:
 - Cross-reference with reliable sources.
 - Ensure the content aligns with your educational goals and values.
 
-**Example:** Verify AI-generated historical overviews with trusted sources to ensure accuracy.
+**Example:** When AI generates a history lesson, cross-check facts with reputable history books and academic journals to ensure accuracy.
 
 ### 2. Apply the 80/20 Approach
 
@@ -26,7 +27,7 @@ Use AI to do 80% of the work for a task, but add your personal touch to the rema
 - Use familiar structures to maintain consistency.
 - Tailor the content to suit the specific needs of your classroom.
 
-**Example:** Modify AI-generated lesson plans with examples that resonate with your students' experiences.
+**Example:** Modify AI-generated lesson plans by adding local context or examples that your students can relate to.
 
 ### 3. Your Judgment Matters
 
@@ -35,7 +36,7 @@ AI output should be a starting point for the materials you use with your student
 - Ensure alignment with your school’s curriculum and policies.
 - Integrate AI-generated content with your teaching style.
 
-**Example:** Customize AI-provided science experiment outlines to match your lab resources and safety protocols.
+**Example:** Customize AI-created science lab activities to fit the specific resources and safety protocols of your classroom.
 
 ### 4. Know the Limits of AI
 
@@ -67,7 +68,9 @@ Be transparent with students and parents about how AI is being used in the class
 - Ensure that the use of AI aligns with ethical guidelines and school policies.
 - Foster a culture of openness regarding AI integration.
 
-**Example:** Include a brief overview in your syllabus or introductory session about how AI tools will support learning objectives.
+<div class="alert alert-block alert-info">
+<b>Transparency:</b> Include a brief overview in your syllabus or introductory session about how AI tools will support learning objectives.
+</div>
 
 ### 7. Safe and Responsible Use
 
@@ -77,7 +80,7 @@ Teach students about the safe and responsible use of AI tools:
 - Encourage critical thinking about AI-generated content.
 - Discuss the ethical implications of AI use in education.
 
-**Example:** Incorporate lessons on digital literacy that cover the basics of AI and its responsible use.
+**Example:** Develop lessons on digital literacy that include the basics of AI and its responsible use, such as understanding data privacy and recognizing bias.
 
 ### 8. Choose the Right AI Tool
 
@@ -86,7 +89,7 @@ Select AI tools that align with your educational goals:
 - Ensure the tool supports the specific learning objectives.
 - Consider the ease of use and integration with existing systems.
 
-**Example:** Choose an AI tool that enhances interactive learning for your subject area.
+**Example:** Choose an AI tool that facilitates interactive and personalized learning experiences for subjects like math or science.
 
 ### 9. Encourage Experimentation and Play
 
@@ -95,7 +98,7 @@ Foster curiosity and innovation by allowing students to explore AI tools:
 - Create assignments that encourage experimentation and discovery.
 - Allow students to explore different AI applications creatively.
 
-**Example:** Have students use AI to create projects or solve problems in novel ways.
+**Example:** Have students use AI to design their own science experiments or develop unique projects, encouraging them to think outside the box.
 
 ### 10. Connect to Future Careers
 
@@ -104,7 +107,9 @@ Frame AI assignments to highlight their relevance to future careers:
 - Show the practical applications of AI in various fields.
 - Provide opportunities for students to apply AI to real-world challenges.
 
-**Example:** Discuss how AI is used in different industries and encourage projects that mimic these applications.
+<div class="alert alert-block alert-info">
+<b>Making Connections:</b> Discuss how AI is used in different industries and create projects that allow students to simulate these applications.
+</div>
 
 ### 11. Emphasize Human-AI Interaction
 
@@ -113,7 +118,7 @@ Guide students to view AI as a creative partner, not a replacement:
 - Foster collaborative learning and interdisciplinary perspectives.
 - Encourage students to critically assess and improve AI outputs.
 
-**Example:** Have students work in groups to refine AI-generated content and discuss improvements.
+**Example:** Assign group projects where students must refine AI-generated content, encouraging them to evaluate and improve upon the AI's work.
 
 * * *
 
@@ -148,3 +153,4 @@ Guide students to view AI as a creative partner, not a replacement:
 
 * [MagicSchool AI's 5 best practices for AI use in Education](https://www.youtube.com/watch?v=kcfcGRxTf0M)
 * [10 Best Practices for AI Assignments in Higher Ed](https://acue.org/blog/unlocking-human-ai-potential-10-best-practices-for-ai-assignments-in-higher-ed/)
+```
