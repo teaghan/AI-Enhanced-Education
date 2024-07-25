@@ -1,24 +1,25 @@
-**Preface:**
-
-Imagine you have a tool that is really good at predicting the next most logical word given a bunch of previous words. You want to interact with this tool to get a particular result - lets say you want to design a multistep activity to have students derive the quadratic formula.
-
-Before you begin interacting with the tool, it doesn't know that you want to do that. What type of information could you give this tool such that you get the best response based on your expectations?
-
-I'm sure that if you gave it some thought, you would come up with ideas that overlap with the following:
-
-- Providing a well-defined task
-- Explaining the context of the scenario
-- Describing the format that you want the activity in
-- Providing an example of what you want the activity to look like
-- Providing any additional background information that the tool could reference
-
-Well, this is the mindset you have to have when developing a quality "prompt" with a tool like ChatGPT. It is essentially designed to predict the next most logical word given a previous set of text. Therefore, the more information and clear instruction you provide, the better the response you will get!
-
-When I hear someone say, "ChatGPT is bad at doing so-and-so..", my immediate reaction is, "Show me the bad prompt it was given."
-
+---
+layout: embed_default
+---
 
 # Key Components of a Good Prompt
 
+Imagine you have a tool that excels at predicting the next most logical word based on a sequence of previous words. You want to use this tool to achieve a specific goal—let's say, designing a multi-step activity to help students derive the quadratic formula.
+
+Initially, the tool doesn't know your goal. What kind of information could you provide to get the best response that meets your expectations?
+
+If you think about it, you might come up with ideas like these:
+
+* Clearly defining the task
+* Explaining the context of the scenario
+* Describing the format you want for the activity
+* Providing an example of what you want the activity to look like
+* Including any additional background information the tool could reference
+* This is the mindset you need when developing a quality prompt for a tool like ChatGPT. It’s designed to predict the next most logical word based on the previous text. The more information and clear instructions you provide, the better the response you’ll get!
+
+When someone says, "ChatGPT is bad at doing so-and-so," my immediate reaction is, "Show me the bad prompt it was given."
+
+* * *
 
 Crafting effective prompts is a nuanced art that goes beyond mere instruction; it's about orchestrating a collection of elements to guide language models like ChatGPT. We will delve into the key components of a good prompt, including:
 
@@ -31,7 +32,7 @@ Crafting effective prompts is a nuanced art that goes beyond mere instruction; i
 7. Chain of thought
 8. Background information
 
-We will look at examples of each of these components, then combine multiple components to form [complete examples of prompts](#Complete-Examples) that could be used by a teacher.
+We will look at examples of each of these components, then combine multiple components to form [complete examples of prompts](./md_files/writing_prompts.html#Complete-Examples) that could be used by a teacher.
 
 ## 1. Task
 
@@ -64,17 +65,11 @@ Provide the LLM with context by **considering the audience**, their background, 
 
 <div class="alert alert-block alert-info">
 <b>Examples of Context</b> 
-
 "Generate a Creative Writing Lesson Plan for your grade 11 English class. The students have recently completed a unit on modern poetry, and their background includes exposure to various poetic devices and forms."
-
 "Analyze and edit the following student essay in your grade 9 science class. The students have just concluded a unit on cellular biology, and success criteria involve demonstrating an understanding of basic cellular structures and functions."
-
 "Create math word problems for a quiz on quadratic equations for your grade 10 algebra class. The students are familiar with factoring and solving linear equations and are now transitioning to quadratic equations."
-
 "Write a reflective journal prompt for your grade 12 history class. The students have been studying World War II, and the context includes exploring the socio-political impacts of the war on different regions."
-
 "Generate discussion questions for a science lab on chemical reactions in your grade 11 chemistry class. The students have practical experience with basic chemical reactions and are expected to apply their knowledge to more complex scenarios."
-
 </div>
 
 ## 3. Exemplars
