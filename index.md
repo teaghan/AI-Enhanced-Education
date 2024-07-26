@@ -21,7 +21,7 @@ There are numerous AI tools available that are either specifically designed for 
 Each link will take you to a description of the tool, an explanation of how it can be used, and links to get you started. Each tool offers useful free access options as well as paid plans for enhanced features (note: I have no affiliation with any of them).
 
 - [ChatGPT](./md_files/ChatGPT.html)
-- [Custom GPTs]()
+- [Custom GPTs](./md_files/custom_GPTs.html)
 - [Khanmigo for Teachers]()
 - [Magic School AI](./md_files/MagicSchoolAI.html)
 
