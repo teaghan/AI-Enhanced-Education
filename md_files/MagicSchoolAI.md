@@ -101,11 +101,11 @@ Magic School AI's student tools are designed to foster critical thinking, creati
 
 * * *
 
-## Resources Library
+## Resources and Video Library
 
-The Magic School AI Resources Library includes professional development sessions, certification courses, and printable resources to help educators integrate AI into their teaching practices. It offers detailed lists of tools for teachers and students, certification courses for educators and students, staff training presentations, and external AI education resources.
+The Magic School AI [Resources Library](https://www.magicschool.ai/resources-library) includes professional development sessions, certification courses, and printable resources to help educators integrate AI into their teaching practices. It offers detailed lists of tools for teachers and students, certification courses for educators and students, staff training presentations, and external AI education resources.
 
-Explore more at the [Resources Library](https://www.magicschool.ai/resources-library).
+[Magic School AI's YouTube Channel](https://www.youtube.com/@magicschoolai) provides tutorials and creative ways to use their tools, helping users maximize the platform's benefits. Specific videos offer comprehensive insights into how the platform works and its various features.
 
 * * *
 
@@ -118,12 +118,6 @@ Magic School AI offers different [pricing tiers](https://www.magicschool.ai/part
 - **MagicSchool Enterprise:** Custom pricing for schools and districts, including advanced moderation, single sign-on, dedicated support, platform customization, and comprehensive data privacy compliance.
 
 > [Sign up](https://app.magicschool.ai/auth/signup) for a free account to try it out!
-
-* * *
-
-## YouTube Channel
-
-[Magic School AI's YouTube Channel](https://www.youtube.com/@magicschoolai) provides tutorials and creative ways to use their tools, helping users maximize the platform's benefits. Specific videos offer comprehensive insights into how the platform works and its various features.
 
 * * *
 
