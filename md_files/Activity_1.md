@@ -1,3 +1,7 @@
+---
+layout: embed_default
+---
+
 # Activity 1: Crafting Effective Prompts
 
 ## Introduction
