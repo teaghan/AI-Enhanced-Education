@@ -17,11 +17,11 @@ In groups of 2 or 3, discuss your ideas on what information should be provided t
 * What kind of information would you provide to ensure the tool understands and achieves your goal?
 * How would you communicate your expectations clearly to this tool?
 
-Try to come up with a list of 4-8 distinct ideas.
+Try to come up with **a list of 4-8 distinct ideas**.
 
 ## Collaborative Idea Board
 
-After discussing in your groups, have **one member** go to the [Collaborative Idea Board](https://webwhiteboard.com/board/zbpYCfXvWWsN4r3z8laxtGscjAHPTJWM/) and **add the list of your group's ideas to a sticky note**.
+After discussing in your groups, have **one member** go to the [Collaborative Idea Board](https://webwhiteboard.com/board/zbpYCfXvWWsN4r3z8laxtGscjAHPTJWM/) and **write the list of your group's ideas on a single sticky note**.
 
 ## Expected Outcome
 
