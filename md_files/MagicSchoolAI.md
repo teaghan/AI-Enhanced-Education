@@ -88,6 +88,7 @@ Magic School AI provides a robust set of tools designed to support student learn
 - **Real World Connections:** Offers examples related to classroom topics, making learning more relevant and engaging for students.
 
 ### How to Implement These Tools
+
 From your educator dashboard, you can explore and customize the Magic Student tools to fit your lesson plans. Once set up, these tools can be launched for student use, ensuring they are utilized in a responsible and effective manner. By integrating these AI-driven resources, you can provide a more engaging, interactive, and personalized learning environment for your students. 
 
 Magic School AI's student tools are designed to foster critical thinking, creativity, and deeper subject comprehension, making them an invaluable addition to any classroom.
@@ -120,13 +121,9 @@ Magic School AI offers different [pricing tiers](https://www.magicschool.ai/part
 
 * * *
 
-## YouTube Channel and Videos
+## YouTube Channel
 
-Magic School AI's YouTube channel provides tutorials and creative ways to use their tools, helping users maximize the platform's benefits. Specific videos offer comprehensive insights into how the platform works and its various features.
-
-- [Magic School AI YouTube Channel](https://www.youtube.com/@magicschoolai)
-- [MagicSchool Walkthrough](https://www.youtube.com/watch?v=f_Q0I9zuksw)
-- [MagicSchool Walkthrough for Student Tools](https://www.youtube.com/watch?v=XEDrkZ43qR8)
+[Magic School AI's YouTube Channel](https://www.youtube.com/@magicschoolai) provides tutorials and creative ways to use their tools, helping users maximize the platform's benefits. Specific videos offer comprehensive insights into how the platform works and its various features.
 
 * * *
 
@@ -134,13 +131,11 @@ Magic School AI's YouTube channel provides tutorials and creative ways to use th
 
 Magic School AI is a comprehensive and versatile AI platform that significantly enhances the productivity of educators and supports student learning. With its wide array of tools, user-friendly interface, and commitment to privacy, Magic School AI is poised to transform educational environments by making advanced AI accessible and practical for everyday use in schools.
 
-For further details, visit the official [Magic School AI website](https://www.magicschool.ai).
-
 * * *
 
-## Additional Resources
+## Resources
 
-- [Magic School AI Capabilities](https://www.magicschool.ai)
+- [Magic School AI website](https://www.magicschool.ai)
 - [Use Cases Page](https://www.magicschool.ai/use-cases/all-teachers)
-- [Using Magic School AI in the Classroom](https://www.magicschool.ai/resources-library)
+- [Magic School AI Resource Library](https://www.magicschool.ai/resources-library)
 - [Magic School AI YouTube Channel](https://www.youtube.com/@magicschoolai)
