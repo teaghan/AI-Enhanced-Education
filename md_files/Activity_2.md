@@ -4,8 +4,6 @@ layout: embed_default
 
 # Activity 2: Comparing Teacher AI Tools
 
-## Introduction
-
 In this activity, you will work in groups of 2 or 3. Each group will be assigned one of the following AI tools to create an effective handout for students on the topic of **"Solving linear equations with the variable on either side of the equation"**:
 
 1. [Khanmigo for Teachers](https://www.khanmigo.ai/teachers)
@@ -34,18 +32,7 @@ Create a handout that includes:
 
 ## Feedback Form
 
-After completing your handout, please fill out the following form to provide feedback on your assigned tool:
-
-[Feedback Form Link](https://forms.gle/tG721REwxgKDDby79)
-
-### Feedback Questions:
-1. **Tool Used**: 
-    - Khanmigo for Teachers
-    - Magic School AI
-    - Math Content Builder
-2. **Usability of the Tool (out of 10)**: 
-3. **Efficiency of the Tool (out of 10)**: 
-4. **Satisfaction with the Final Handout**:
+After completing your handout, please fill out the [Feedback Form](https://forms.gle/tG721REwxgKDDby79) to provide feedback on your assigned tool.
 
 ## Expected Outcome
 
