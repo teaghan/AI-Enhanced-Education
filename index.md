@@ -18,7 +18,7 @@ The most widely applicable and powerful tool available to educators today is Cha
 
 There are numerous AI tools available that are either specifically designed for education or can be used effectively in educational contexts. Below is a list of some tools I have explored and found particularly useful. While this list is not exhaustive—newer and better tools are continuously being developed—it serves as a starting point for educators looking to integrate AI into their teaching practices.
 
-Each link will take you to a description of the tool, an explanation of how it can be used, and links to get you started. Each tool offers useful free access options as well as paid plans for enhanced features (note: I have no affiliation with any of them).
+Each link will take you to a description of the tool, an explanation of how it can be used, and links to get you started. Each tool offers useful free access options and some offer paid plans for enhanced features (note: I have no affiliation with any of them).
 
 - [ChatGPT](./md_files/ChatGPT.html)
 - [Custom GPTs](./md_files/custom_GPTs.html)
@@ -30,3 +30,15 @@ Each link will take you to a description of the tool, an explanation of how it c
 Explore guidelines for effectively using AI in education:
 
 - [Best Practices for AI-Enhanced Education](./md_files/best_practices.html)
+
+## Workshop
+
+2024 Northwest Mathematics Conference: “AI-Enhanced Math: Integrating ChatGPT in the Classroom”
+
+### Powerpoint
+
+### Activities
+
+1. Intro: [Writing Prompts](./md_files/Activity_1.html)
+2. Teacher Use: [Content Creation](./md_files/Activity_2.html)
+3. Student Use: [AI Tutor](./md_files/Activity_3.html) 
