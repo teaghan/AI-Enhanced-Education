@@ -80,7 +80,6 @@ ChatGPT offers both free and paid versions to suit various needs:
   - **Benefits:** Despite the limitations, the free tier allows users to experience many advanced features without any cost. Users can still access GPTs created by others and benefit from a substantial set of functionalities.
 
 - **ChatGPT Plus:** 
-  - **Price:** $20 per month.
   - **Enhanced Features:** Subscribers enjoy priority access during peak times, faster response times, and access to GPT-4o with higher usage limits.
   - **Additional Capabilities:** Plus users can create custom GPTs, use DALL·E for image generation, and have fewer restrictions on advanced functionalities such as data analysis and web browsing. This plan also provides enhanced performance and fewer limitations on the usage of advanced tools.
 

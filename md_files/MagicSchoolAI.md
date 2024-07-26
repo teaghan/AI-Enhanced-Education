@@ -113,7 +113,7 @@ Explore more at the [Resources Library](https://www.magicschool.ai/resources-lib
 Magic School AI offers different [pricing tiers](https://www.magicschool.ai/partner):
 
 - **MagicSchool Free:** Provides access to essential tools including 60+ standards-based AI tools for educators, 40+ student tools, and AI image generation. Limitations include restricted AI generations, fewer student rooms, and no 1-click LMS exports.
-- **MagicSchool Plus:** Priced at $99.96 per year, this plan offers unlimited AI generations, unlimited student rooms, 1-click exports to popular LMS platforms, and early access to new features.
+- **MagicSchool Plus:** This plan offers unlimited AI generations, unlimited student rooms, 1-click exports to popular LMS platforms, and early access to new features.
 - **MagicSchool Enterprise:** Custom pricing for schools and districts, including advanced moderation, single sign-on, dedicated support, platform customization, and comprehensive data privacy compliance.
 
 > [Sign up](https://app.magicschool.ai/auth/signup) for a free account to try it out!
