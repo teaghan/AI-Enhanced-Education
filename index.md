@@ -22,7 +22,7 @@ Each link will take you to a description of the tool, an explanation of how it c
 
 - [ChatGPT](./md_files/ChatGPT.html)
 - [Custom GPTs](./md_files/custom_GPTs.html)
-- [Khanmigo for Teachers]()
+- [Khanmigo for Teachers](./md_files/Khanmigo_for_teachers.html)
 - [Magic School AI](./md_files/MagicSchoolAI.html)
 
 ## Best Practices
