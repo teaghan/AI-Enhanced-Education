@@ -23,7 +23,7 @@ ChatGPT comes with several built-in tools that enhance its functionality:
 - **Whisper:** Transcribe audio to text.
 
 <div class="alert alert-block alert-info">
-<h4>Note:</h4> Custom GPT creation and DALL-E image generation are only available for paid users.
+<h4>Note:</h4> Custom GPT creation and DALL-E image generation are only available for paid users. However, free users can still interact with Custom GPTs that were created by others.
 </div>
 
 * * *
@@ -110,17 +110,20 @@ ChatGPT can be utilized in various educational settings to enhance learning and 
 
 - **Lesson Planning:** Generate detailed lesson plans, complete with activities and assessments.
 - **Content Creation:** Develop quizzes, worksheets, and interactive activities tailored to your curriculum.
-- **Professional Development:** Use ChatGPT to stay updated on the latest educational trends and research.
-- **Administrative Support:** Automate routine tasks such as email drafting and meeting scheduling.
+- **Communication:** Automate routine tasks such as email drafting and weekly updates.
 - **Voice Interaction:** Develop lesson plans, quizzes, and other content through hands-free voice conversations.
+- **Providing Feedback:** Generate constructive feedback on student assignments, helping to identify strengths and areas for improvement.
+- **Writing Report Card Comments:** Craft personalized and detailed report card comments that reflect student progress and achievements.
+- **Creating Discussion Questions:** Develop engaging and thought-provoking discussion questions to stimulate classroom interaction.
+- **Developing Explanations:** Provide a variety of explanations for complex concepts, catering to different learning styles and levels of understanding.
 
 ### For Students
 
-- **Homework Help:** Get instant explanations and solutions to complex problems.
+- **Personalized Tutors:** Receive tailored tutoring sessions to address individual learning needs and challenges.
+- **Practice Problems:** Access a wide variety of practice problems to reinforce understanding and prepare for exams.
 - **Study Aids:** Generate summaries, flashcards, and study guides for exams.
-- **Creative Projects:** Use ChatGPT to brainstorm ideas and draft creative writing pieces.
+- **Creative Projects:** Use ChatGPT to brainstorm ideas for individual or group projects.
 - **Language Learning:** Practice language skills through interactive conversations.
-- **Research Assistance:** Utilize web search capabilities to find up-to-date information for projects and assignments.
 
 * * *
 
