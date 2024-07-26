@@ -23,7 +23,7 @@ Create a handout that includes:
 
 **Topic:** Solving linear equations with the variable on either side of the equation
 
-**Context**: Assume students already understand how to solve simple, two-step equations like $2x-1=3$. Your handout should teach them how to solve equations like $3x+4=5x-2$ and have them test their understanding.
+**Context**: Assume students already understand how to solve simple, two-step equations like \(2x-1=3\). Your handout should teach them how to solve equations like \(3x+4=5x-2\) and have them test their understanding.
 
 ## Instructions
 
