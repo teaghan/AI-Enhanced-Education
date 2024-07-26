@@ -4,7 +4,9 @@ layout: embed_default
 
 # Magic School AI: Revolutionizing Education with AI
 
-Magic School AI is an advanced platform designed to assist educators and students by leveraging AI to streamline educational tasks, freeing up valuable time for more meaningful interactions. This comprehensive overview details Magic School AI's mission, features, tools, and benefits, showcasing how it can transform the educational experience.
+Magic School AI is an advanced platform designed to assist educators and students by leveraging AI to streamline educational tasks, freeing up valuable time for more meaningful interactions. With its wide array of tools, user-friendly interface, and commitment to privacy, Magic School AI is poised to transform educational environments by making advanced AI accessible and practical for everyday use in schools.
+
+This comprehensive overview details Magic School AI's mission, features, tools, and benefits, showcasing how it can transform the educational experience.
 
 * * *
 
@@ -118,12 +120,6 @@ Magic School AI offers different [pricing tiers](https://www.magicschool.ai/part
 - **MagicSchool Enterprise:** Custom pricing for schools and districts, including advanced moderation, single sign-on, dedicated support, platform customization, and comprehensive data privacy compliance.
 
 > [Sign up](https://app.magicschool.ai/auth/signup) for a free account to try it out!
-
-* * *
-
-## Conclusion
-
-Magic School AI is a comprehensive and versatile AI platform that significantly enhances the productivity of educators and supports student learning. With its wide array of tools, user-friendly interface, and commitment to privacy, Magic School AI is poised to transform educational environments by making advanced AI accessible and practical for everyday use in schools.
 
 * * *
 
