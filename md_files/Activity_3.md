@@ -22,11 +22,11 @@ Act as a student seeking help from the assigned AI tutoring tool. Engage in a ba
 
 ## Instructions
 
-1. **Sign up for your tool**: Ensure one group member creates an account for your assigned tool.
+1. **Sign up for your tool**: Ensure one group member creates an account for your assigned tool (note that Flexi does not require an account).
 2. **Engage in Conversation**: Use the assigned AI tool to ask questions and get explanations on solving systems of linear equations. Focus on understanding the methods and steps involved.
 3. **Answer Practice Questions**: Use the tool to get practice questions on the topic. Answer these questions and use the feedback provided to improve your understanding.
 
-> Try seeing what happens if you get some answers wrong!
+    > Try seeing what happens if you get some answers wrong!
 
 4. **Submit Feedback**: Once you have completed the activity, fill out the online feedback form.
 
