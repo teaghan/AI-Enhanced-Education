@@ -36,7 +36,7 @@ Create a handout that includes:
 
 After completing your handout, please fill out the following form to provide feedback on your assigned tool:
 
-[Feedback Form Link](#)
+[Feedback Form Link](https://forms.gle/tG721REwxgKDDby79)
 
 ### Feedback Questions:
 1. **Tool Used**: 
