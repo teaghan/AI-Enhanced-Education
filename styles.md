@@ -96,5 +96,5 @@ Use green boxes to highlight links to external resources, ensuring that the link
 ### Highlighted important text
 
 <div class="alert alert-block alert-info">
-<b>Did You Know?</b> A day on Mercury (one full rotation) lasts 59 Earth days, while a year (one orbit around the Sun) takes just 88 Earth days.
+<h4>Important:</h4> Always verify the recency and relevance of AI-provided data, especially for current events.
 </div>
