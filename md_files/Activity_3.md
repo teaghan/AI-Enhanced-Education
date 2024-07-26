@@ -14,9 +14,13 @@ In this activity, you will work in groups of 2 or 3. Each group will be assigned
 
 ## Objective
 
-Act as a student seeking help from the assigned AI tutoring tool. Engage in a back-and-forth conversation to develop a better understanding of **solving systems of linear equations**. After the conversation, answer practice questions provided by the tool to receive feedback on your understanding.
+Act as a student seeking help from the assigned AI tutoring tool. 
 
-### Topic: Solving Systems of Linear Equations
+1. Engage in a back-and-forth conversation to develop a better understanding of the topic.
+2. After the conversation, answer practice questions provided by the tool to receive feedback on your understanding.
+3. Bonus: Try finding out how to share your conversation with your teacher.
+
+**Topic:** Solving Systems of Linear Equations
 
 **Context**: Assume you already understand how to solve single, multi-step equations. Use the tool to learn how to solve systems of linear equations using methods such as substitution and elimination.
 
@@ -32,11 +36,11 @@ Act as a student seeking help from the assigned AI tutoring tool. Engage in a ba
 
 ## Feedback Form
 
-After completing the activity, please fill out the [Feedback Form](https://forms.gle/tG721REwxgKDDby79) to provide feedback on your assigned tool.
+After completing the activity, please fill out the [Feedback Form](https://forms.gle/e85xVV25mfPKSzpE8) to provide feedback on your assigned tool.
 
 ## Expected Outcome
 
-* By the end of this activity, you should have practical experience using an AI tutoring tool from a student's perspective to learn a new concept.
+* By the end of this activity, you should have practical experience using an AI tutoring tool from a student's perspective.
 * You will gain insights into the usability and effectiveness of different AI tools in providing educational support and feedback.
 
 ## Resources
