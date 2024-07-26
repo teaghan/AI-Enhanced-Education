@@ -57,7 +57,7 @@ Magic School AI offers over 60 specialized AI tools designed to streamline vario
 
 <div class="alert alert-block alert-info">
 <h4>Translator</h4> 
-<p>Magic School AI makes it easy to translate any content you create into multiple languages. With just a few clicks, you can translate rubrics, lesson plans, and other documents to ensure accessibility for all students. Simply select the translate option, choose your target language, and instantly see your content beautifully translated, supporting a diverse classroom environment.</p>
+<p>Magic School AI makes it easy to translate any content you create into multiple languages. With just a few clicks, you can translate rubrics, lesson plans, and other documents to ensure accessibility for all students.</p>
 </div>
 
 * * *
