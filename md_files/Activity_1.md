@@ -12,25 +12,20 @@ Initially, the tool doesn't know your goal. What kind of information could you p
 
 ## Group Discussion
 
-In groups of 3, discuss your ideas on what information should be provided to the tool. Consider the types of details and instructions that would help the tool generate the most effective and relevant response. Think about how you typically provide instructions and details in your teaching practice.
+In groups of 2 or 3, discuss your ideas on what information should be provided to the tool. 
 
-### Discussion Questions:
-1. What kind of information would you provide to ensure the tool understands and achieves your goal?
-2. How would you communicate your expectations clearly to this tool?
+* What kind of information would you provide to ensure the tool understands and achieves your goal?
+* How would you communicate your expectations clearly to this tool?
+
+Try to come up with a list of 4-8 distinct ideas.
 
 ## Collaborative Idea Board
 
-After discussing in your groups, go to the collaborative online idea board (link provided below) and add your group's ideas. Write down all the elements you think are important for creating a clear and effective prompt.
-
-[Collaborative Idea Board Link](https://webwhiteboard.com/board/zbpYCfXvWWsN4r3z8laxtGscjAHPTJWM/)
-
-## Categorizing Ideas
-
-Once all groups have added their ideas to the board, we will review them together as a large group. I will categorize the ideas into different groups based on the common themes and elements identified. This will demonstrate that you already know what makes an effective prompt and help you recognize these components in your own practice.
+After discussing in your groups, have **one member** go to the [Collaborative Idea Board](https://webwhiteboard.com/board/zbpYCfXvWWsN4r3z8laxtGscjAHPTJWM/) and **add the list of your group's ideas to a sticky note**.
 
 ## Expected Outcome
 
-By the end of this activity, you should have a clearer understanding of the components that make up an effective prompt. This knowledge will help you leverage AI tools like ChatGPT more effectively in your teaching practice, enabling you to create more engaging and personalized learning experiences for your students.
+By the end of this activity and the following discussion, you should have a clearer understanding of the components that make up an effective prompt. This knowledge will help you leverage AI tools like ChatGPT more effectively in your teaching practice, enabling you to create more engaging and personalized learning experiences for your students.
 
 ## Resources
 

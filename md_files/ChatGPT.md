@@ -2,7 +2,7 @@
 layout: embed_default
 ---
 
-# ChatGPT: A Powerful Tool for Education
+# ChatGPT
 
 The integration of artificial intelligence in education has the potential to revolutionize the way we teach and learn. ChatGPT, developed by OpenAI, is a sophisticated AI language model that can generate human-like text based on the input it receives. This page provides a comprehensive overview of ChatGPT's capabilities, tools, input formats, payment plans, and applications in education.
 

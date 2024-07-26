@@ -39,6 +39,6 @@ Explore guidelines for effectively using AI in education:
 
 ### Activities
 
-1. Intro: [Writing Prompts](./md_files/Activity_1.html)
-2. Teacher Use: [Content Creation](./md_files/Activity_2.html)
+1. Activity #1: [Writing Prompts](./md_files/Activity_1.html)
+2. Activity #2: [Content Creation](./md_files/Activity_2.html)
 3. Student Use: [AI Tutor](./md_files/Activity_3.html) 

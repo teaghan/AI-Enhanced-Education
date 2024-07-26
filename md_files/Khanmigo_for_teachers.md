@@ -2,7 +2,7 @@
 layout: embed_default
 ---
 
-# Khanmigo for Teachers: Enhancing Education with AI
+# Khanmigo for Teachers
 
 Khanmigo for Teachers is an innovative AI-driven platform crafted by Khan Academy to enhance the teaching experience by simplifying and automating various educational tasks. Equipped with a diverse range of tools, an intuitive interface, and robust privacy features, Khanmigo is designed to revolutionize educational settings by making AI technology practical and accessible for everyday classroom use.
 
