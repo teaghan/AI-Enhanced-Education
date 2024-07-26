@@ -37,6 +37,8 @@ Explore guidelines for effectively using AI in education:
 
 ### Powerpoint
 
+* [Slides](https://docs.google.com/presentation/d/1XvLK6Q0WnCPZN0WmOnhzYU0xC_AZ0TxBp1ujS4tirCw/edit?usp=sharing)
+
 ### Activities
 
 1. Activity #1: [Writing Prompts](./md_files/Activity_1.html)
