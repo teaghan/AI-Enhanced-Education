@@ -33,7 +33,7 @@ Explore guidelines for effectively using AI in education:
 
 ## Workshops
 
-### 2024 Northwest Mathematics Conference: “AI-Enhanced Math: Integrating ChatGPT in the Classroom”
+### 2024 Northwest Mathematics Conference: “AI-Enhanced Math”
 
 * [Slides](https://docs.google.com/presentation/d/1XvLK6Q0WnCPZN0WmOnhzYU0xC_AZ0TxBp1ujS4tirCw/edit?usp=sharing)
 * [Shared files](https://drive.google.com/drive/folders/1GMYNcPfXtmcpKr8q8RwdVeR0MNhMyUSB?usp=drive_link)
