@@ -34,6 +34,30 @@ Act as a student seeking help from the assigned AI tutoring tool.
 
 4. **Submit Feedback**: Once you have completed the activity, fill out the online feedback form.
 
+### Example Prompts to Get Started: 
+
+- “Teach me about negative exponents” 
+- “I'm struggling with solving this linear equation: 2x + 3 = 7. Can you walk me through the steps?” 
+- “Can you explain the quotient rule of exponents with some examples?” 
+- “How do I add and subtract polynomials? For example: (2x + 3) - (3x - 2)” 
+- “How do I simplify the expression (4x^2)/(2x)?” 
+
+### Tips for Using ChatGPT: 
+
+- Aim to learn and understand the material, not just to get the answers. 
+- Always ask ChatGPT to explain the process rather than just solve the problem for you. 
+- Ask follow-up questions if you are still unclear. 
+- To help type math, use these keyboard shortcuts: 
+    - Addition (+): Use the + key. 
+    - Subtraction (-): Use the - key. 
+    - Multiplication (×): Use the * key. 
+    - Division (÷): Use the / key. 
+    - Equals (=): Use the = key. 
+    - Greater Than (>): Use the > key. 
+    - Less Than (<): Use the < key. 
+    - Powers (x²): Use the ^ symbol followed by the exponent. For example: x^2 
+    - Square Root: Type \sqrt{} using the {} brackets to enclose the argument. For example: \sqrt{4} 
+
 ## Feedback Form
 
 After completing the activity, please fill out the [Feedback Form](https://forms.gle/e85xVV25mfPKSzpE8) to provide feedback on your assigned tool.
