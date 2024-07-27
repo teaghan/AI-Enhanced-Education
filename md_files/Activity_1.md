@@ -23,7 +23,7 @@ Try to come up with **a list of 4-8 distinct ideas**.
 
 After discussing in your groups, have **one member** go to the [Collaborative Idea Board](https://webwhiteboard.com/board/zbpYCfXvWWsN4r3z8laxtGscjAHPTJWM/) and **write the list of your group's ideas on a single sticky note**.
 
-## Expected Outcome
+## Learning Outcome
 
 By the end of this activity and the following discussion, you should have a clearer understanding of the components that make up an effective prompt. This knowledge will help you leverage AI tools like ChatGPT more effectively in your teaching practice, enabling you to create more engaging and personalized learning experiences for your students.
 

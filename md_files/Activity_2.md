@@ -34,7 +34,7 @@ Create a handout that includes:
 
 After completing your handout, please fill out the [Feedback Form](https://forms.gle/tG721REwxgKDDby79) to provide feedback on your assigned tool.
 
-## Expected Outcome
+## Learning Outcome
 
 * By the end of this activity, you should have practical experience using at least one AI tool to create educational materials. 
 * You will also gain insights into the usability and efficiency of different AI tools, helping you make informed decisions about integrating AI into your teaching practice.

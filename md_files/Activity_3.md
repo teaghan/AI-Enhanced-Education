@@ -38,7 +38,7 @@ Act as a student seeking help from the assigned AI tutoring tool.
 
 After completing the activity, please fill out the [Feedback Form](https://forms.gle/e85xVV25mfPKSzpE8) to provide feedback on your assigned tool.
 
-## Expected Outcome
+## Learning Outcome
 
 * By the end of this activity, you should have practical experience using an AI tutoring tool from a student's perspective.
 * You will gain insights into the usability and effectiveness of different AI tools in providing educational support and feedback.
