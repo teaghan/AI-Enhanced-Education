@@ -42,7 +42,7 @@ Act as a student seeking help from the assigned AI tutoring tool.
 - “How do I add and subtract polynomials? For example: (2x + 3) - (3x - 2)” 
 - “How do I simplify the expression (4x^2)/(2x)?” 
 
-### Tips for Using ChatGPT: 
+### Tips for Interacting with AI Tutors: 
 
 - Aim to learn and understand the material, not just to get the answers. 
 - Always ask ChatGPT to explain the process rather than just solve the problem for you. 
