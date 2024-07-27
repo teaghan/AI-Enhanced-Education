@@ -37,7 +37,7 @@ Explore guidelines for effectively using AI in education:
 
 * [Slides](https://docs.google.com/presentation/d/1XvLK6Q0WnCPZN0WmOnhzYU0xC_AZ0TxBp1ujS4tirCw/edit?usp=sharing)
 * [Shared files](https://drive.google.com/drive/folders/1GMYNcPfXtmcpKr8q8RwdVeR0MNhMyUSB?usp=drive_link)
-1. Activity #1: [Writing Prompts](./md_files/Activity_1.html)
-2. Activity #2: [Content Creation](./md_files/Activity_2.html)
-3. Activity #3: [AI Tutor](./md_files/Activity_3.html)
+* Activity #1: [Writing Prompts](./md_files/Activity_1.html)
+* Activity #2: [Content Creation](./md_files/Activity_2.html)
+* Activity #3: [AI Tutor](./md_files/Activity_3.html)
 
