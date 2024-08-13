@@ -28,6 +28,9 @@ Act as a student seeking help from the assigned AI tutoring tool.
 
 1. **Sign up for your tool**: Ensure one group member creates an account for your assigned tool (note that Flexi does not require an account).
 2. **Engage in Conversation**: Use the assigned AI tool to ask questions and get explanations on solving systems of linear equations. Focus on understanding the methods and steps involved.
+
+    > With Magic School AI, go to `MagicStudent` and select the `Tutor Me with AI` tools
+
 3. **Answer Practice Questions**: Use the tool to get practice questions on the topic. Answer these questions and use the feedback provided to improve your understanding.
 
     > Try seeing what happens if you get some answers wrong!

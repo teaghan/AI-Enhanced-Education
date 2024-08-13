@@ -100,7 +100,7 @@ Khanmigo offers different [pricing tiers](https://www.khanmigo.ai/pricing):
 - **Khanmigo for Families:** $4 per month or $44 per year, providing personalized tutoring and academic support for students. Parents can add up to 10 children to their account (currently only available in the US).
 - **Khanmigo for Districts:** Custom pricing for schools and districts, including advanced moderation, single sign-on, dedicated support, platform customization, and comprehensive data privacy compliance.
 
-> [Sign up](https://www.khanmigo.ai/signup) for a free account to try it out!
+> [Sign up](https://www.khanacademy.org/signup?referral=KhanmigoSignup&isteacher=true&continue=%2Fkhanmigo%2Fteacher-tools&utm_source=Sailthru&utm_medium=email&utm_campaign=071724-WHAM-Teachers-International) for a free account to try it out!
 
 * * *
 
