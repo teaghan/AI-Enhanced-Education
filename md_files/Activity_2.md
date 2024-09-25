@@ -36,6 +36,8 @@ Create a handout that includes:
 
 After completing your handout, please fill out the [Feedback Form](https://forms.gle/tG721REwxgKDDby79) to provide feedback on your assigned tool.
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddb610gstwJJjI9bXj-UzKNlXOArtv7jMhd2iSlnAxB4YWtQ/viewform?embedded=true" width="640" height="1441" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 ## Learning Outcome
 
 * By the end of this activity, you should have practical experience using at least one AI tool to create educational materials. 

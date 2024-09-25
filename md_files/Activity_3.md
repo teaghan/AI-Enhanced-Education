@@ -7,10 +7,11 @@ layout: embed_default
 In this activity, you will work in groups of 2 or 3. Each group will be assigned one of the following AI tutoring tools to understand how to solve systems of linear equations:
 
 1. [Tutor Me](https://chatgpt.com/g/g-hRCqiqVlM-tutor-me)
-2. [Flexi](https://www.ck12.org/flexi/)
-3. [Magic School AI](https://app.magicschool.ai/auth/signup)
+2. [Magic School AI](https://app.magicschool.ai/auth/signup)
+    - Go to "MagicStudent" in the top right
+3. [Playlab AI tool](https://www.playlab.ai/project/clrshs6ca0018q09p6y3jwrin)
 
-> Note: You must use a different tool than the one assigned in the previous activity!
+> Note: Try using a different tool than the one assigned in the previous activity!
 
 ## Objective
 
@@ -18,11 +19,11 @@ Act as a student seeking help from the assigned AI tutoring tool.
 
 1. Engage in a back-and-forth conversation to develop a better understanding of the topic.
 2. After the conversation, answer practice questions provided by the tool to receive feedback on your understanding.
-3. Bonus: Try finding out how to share your conversation with your teacher.
+3. Bonus: Try finding a way to share your conversation with your teacher.
 
 **Topic:** Solving Systems of Linear Equations
 
-**Context**: Assume you already understand how to solve single, multi-step equations. Use the tool to learn how to solve systems of linear equations using methods such as substitution and elimination.
+**Context**: Assume you already understand how to solve single-variable, multi-step equations. Use the tool to learn how to solve systems of linear equations using methods such as substitution and elimination.
 
 ## Instructions
 
@@ -64,6 +65,8 @@ Act as a student seeking help from the assigned AI tutoring tool.
 ## Feedback Form
 
 After completing the activity, please fill out the [Feedback Form](https://forms.gle/e85xVV25mfPKSzpE8) to provide feedback on your assigned tool.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKcaofgbiBkmSJvA9SN4fTeDZXJX9Ga3sL40FEwoodsk6f0Q/viewform?embedded=true" width="640" height="1517" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Learning Outcome
 

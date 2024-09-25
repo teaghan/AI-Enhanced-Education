@@ -19,15 +19,10 @@ Playlab AI offers a flexible environment where educators can create or remix app
 ### Create and Customize
 - **App Creator**: Build AI apps from scratch or remix existing ones from the Playlab community.
 - **Project Launcher**: Facilitate student-driven projects with individualized support.
-- **Writing Assistant**: Assist students in improving their writing skills through AI-generated feedback and support.
 
 ### Collaboration and Community
 - **Remix Community Apps**: Browse and adapt apps created by educators worldwide, customizing them to fit specific classroom needs.
-- **Safe Sharing**: Share created apps with colleagues or the Playlab community, promoting collaboration across schools and districts.
-
-### Integration and Security
-- **Enterprise-Grade Security**: Playlab ensures that all apps meet K12 data privacy standards, providing administrators with fine-grained control over permissions, data, and access.
-- **Platform Integration**: Playlab seamlessly integrates with tools like Google Classroom, offering smooth transitions between AI-generated content and existing educational infrastructures.
+- **Sharing**: Share created apps with colleagues or the Playlab community, promoting collaboration across schools and districts.
 
 * * *
 
