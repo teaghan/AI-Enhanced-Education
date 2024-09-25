@@ -34,7 +34,7 @@ Create a handout that includes:
 
 ## Feedback Form
 
-After completing your handout, please fill out the [Feedback Form](https://forms.gle/tG721REwxgKDDby79) to provide feedback on your assigned tool.
+After completing your handout, please fill out the form below to provide feedback on your assigned tool:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddb610gstwJJjI9bXj-UzKNlXOArtv7jMhd2iSlnAxB4YWtQ/viewform?embedded=true" width="640" height="1441" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 

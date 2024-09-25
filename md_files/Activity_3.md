@@ -64,7 +64,7 @@ Act as a student seeking help from the assigned AI tutoring tool.
 
 ## Feedback Form
 
-After completing the activity, please fill out the [Feedback Form](https://forms.gle/e85xVV25mfPKSzpE8) to provide feedback on your assigned tool.
+After completing your handout, please fill out the form below to provide feedback on your assigned tool:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKcaofgbiBkmSJvA9SN4fTeDZXJX9Ga3sL40FEwoodsk6f0Q/viewform?embedded=true" width="640" height="1517" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
