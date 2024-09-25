@@ -24,6 +24,7 @@ Each link will take you to a description of the tool, an explanation of how it c
 - [Custom GPTs](./md_files/custom_GPTs.html)
 - [Khanmigo for Teachers](./md_files/Khanmigo_for_teachers.html)
 - [Magic School AI](./md_files/MagicSchoolAI.html)
+- [Playlab AI](./md_files/PlaylabAI.html)
 
 ## Best Practices
 

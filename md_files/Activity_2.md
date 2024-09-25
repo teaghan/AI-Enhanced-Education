@@ -9,6 +9,7 @@ In this activity, you will work in groups of 2 or 3. Each group will be assigned
 1. [Khanmigo for Teachers](https://www.khanmigo.ai/teachers)
     - I recommend combining the "Informational Text" and the "Questions Generator" tool.
 2. [Magic School AI](https://app.magicschool.ai/auth/signup)
+    - You could try "Informational Texts" and/or "Worksheet Generator" 
 3. [Math Content Builder](https://chatgpt.com/g/g-38NiEiNWQ-math-content-builder)
 
 > One member of your group will need to **create an account for the assigned tool**.
