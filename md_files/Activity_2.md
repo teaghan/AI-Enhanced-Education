@@ -7,6 +7,7 @@ layout: embed_default
 In this activity, you will work in groups of 2 or 3. Each group will be assigned one of the following AI tools to create an effective handout for students on the topic of **"Solving linear equations with the variable on either side of the equation"**:
 
 1. [Khanmigo for Teachers](https://www.khanmigo.ai/teachers)
+    - I recommend combining the "Informational Text" and the "Questions Generator" tool.
 2. [Magic School AI](https://app.magicschool.ai/auth/signup)
 3. [Math Content Builder](https://chatgpt.com/g/g-38NiEiNWQ-math-content-builder)
 
@@ -15,11 +16,11 @@ In this activity, you will work in groups of 2 or 3. Each group will be assigned
 ## Objective
 
 Create a handout that includes:
-1. An explanation section on the topic, which includes two examples with full solutions
-2. A set of 15 scaffolded questions
-3. Bonus: Include 3 word problems
+1. An explanation section on the topic, which includes two examples with full solutions.
+2. A set of 10 scaffolded questions.
+3. Bonus: Include 3 word problems.
 
-**Topic:** Solving linear equations with the variable on either side of the equation
+**Topic:** Solving linear equations with the variable on either side of the equation.
 
 **Context**: Assume students already understand how to solve simple, two-step equations like \(2x-1=3\). Your handout should teach them how to solve equations like \(3x+4=5x-2\) and have them test their understanding.
 
