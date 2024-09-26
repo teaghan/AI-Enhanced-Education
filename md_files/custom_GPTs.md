@@ -44,7 +44,7 @@ The [Math Content Builder](https://chatgpt.com/g/g-38NiEiNWQ-math-content-builde
 
 ### Building a Thinking Classroom
 
-Inspired by Peter Liljedahl's work, the [Building a Thinking Classroom](https://chatgpt.com/g/g-DTEvkoQnU-building-thinking-classrooms) GPT is being developed to emulate his methodologies. This GPT aims to foster a classroom environment that promotes critical thinking and problem-solving. This one is very much still under development, but I hope to make more progress on it soon!
+Inspired by Peter Liljedahl's work, the [Building a Thinking Classroom](https://chatgpt.com/g/g-DTEvkoQnU-building-thinking-classrooms) aims to assist teachers in fostering a classroom environment that promotes critical thinking and problem-solving. 
 
 * * *
 
