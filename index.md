@@ -28,11 +28,11 @@ Each link will take you to a description of the tool, an explanation of how it c
 
 ### Tools and Content I've created using AI
 
-- [**Math Content Builder**](https://chatgpt.com/g/g-38NiEiNWQ-math-content-builder): a custom GPT for generating comprehensive math handouts. 
-- The [**Building a Thinking Classroom**](https://chatgpt.com/g/g-DTEvkoQnU-building-thinking-classrooms) GPT: aims to assist teachers in fostering a classroom environment that promotes critical thinking and problem-solving.
-- AI generated [**Astronomy 12 course content**](https://teaghan.github.io/astronomy-12/).
-- An [**AI tutor**](https://teaghan-educational-prompt-engineering-tutormain-dkogwm.streamlit.app/) for the Astronomy course that references the course content.
-- [**Report Card Assistant**](https://teaghan-educational-prompt-engineer-report-commentermain-vgh7ws.streamlit.app/): Upload your class CSV file, customize your preferences, and generate personalized report card comments with ease.
+- [Math Content Builder](https://chatgpt.com/g/g-38NiEiNWQ-math-content-builder): a custom GPT for generating comprehensive math handouts. 
+- The [Building a Thinking Classroom](https://chatgpt.com/g/g-DTEvkoQnU-building-thinking-classrooms) GPT: aims to assist teachers in fostering a classroom environment that promotes critical thinking and problem-solving.
+- AI generated [Astronomy 12 course content](https://teaghan.github.io/astronomy-12/).
+- An [AI tutor](https://teaghan-educational-prompt-engineering-tutormain-dkogwm.streamlit.app/) for the Astronomy course that references the course content.
+- [Report Card Assistant](https://teaghan-educational-prompt-engineer-report-commentermain-vgh7ws.streamlit.app/): Upload your class CSV file, customize your preferences, and generate personalized report card comments with ease.
 
 ## Best Practices
 
