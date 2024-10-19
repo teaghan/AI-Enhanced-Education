@@ -7,7 +7,7 @@ layout: embed_default
 
 As the experts in student learning, **teachers are best positioned to build AI tools** that meet the needs of both students and educators. 
 
-This activity offers you the chance to create a custom AI tutor, demonstrating how teacher-built AI b.  
+This activity gives you the opportunity to create a custom AI tutor, showing how teacher-built AI can be tailored to serve your students in the way that best fits their needs.
 
 ---
 
@@ -15,7 +15,7 @@ This activity offers you the chance to create a custom AI tutor, demonstrating h
 
 A common challenge in math education is getting students to **confidently explain their reasoning**. While many students can solve problems, articulating their thought process often proves difficult. Yet, **explaining steps clearly is essential** for developing deeper understanding and critical thinking skills.
 
-In this activity, you’ll use the [AI Tutors platform](https://my.ai-tutors.ca) to build a tutor that encourages students to verbalize their thinking. You’ll guide the AI to ask meaningful follow-up questions and provide constructive feedback—helping students learn through conversation. 
+In this activity, you’ll use the <a href="https://my.ai-tutors.ca" target="_blank">AI Tutors platform</a> to build a tutor that encourages students to verbalize their thinking. You’ll guide the AI to ask meaningful follow-up questions and provide constructive feedback—helping students learn through conversation. 
 
 ### **Objective**  
 
