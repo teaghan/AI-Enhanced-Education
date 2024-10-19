@@ -5,9 +5,9 @@ layout: embed_default
 # **Activity 3: Building an AI Tutor**
 
 
-AI tools are becoming more common in education, but teachers are often not involved in their design. This limits the tools’ ability to address real classroom challenges. As the experts in student learning, **teachers are best positioned to build AI tools** that meet the needs of both students and educators. 
+As the experts in student learning, **teachers are best positioned to build AI tools** that meet the needs of both students and educators. 
 
-This activity offers you the chance to create a custom AI tutor, demonstrating how teacher-built AI can be more effective in promoting student understanding.  
+This activity offers you the chance to create a custom AI tutor, demonstrating how teacher-built AI b.  
 
 ---
 
