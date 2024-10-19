@@ -29,7 +29,7 @@ You will use the **`bcamt@teacher.com`** account, which has an **OpenAI API key 
 
 
 #### 1. **Log in to AI Tutors**  
-   - Go to [AI Tutors](https://my.ai-tutors.ca) and log in using:
+   - Go to <a href="https://my.ai-tutors.ca" target="_blank">AI Tutors</a> and log in using:
      - **Username**: `bcamt@teacher.com`  
      - **Password**: (provided during the workshop)
 
