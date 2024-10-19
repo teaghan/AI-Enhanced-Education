@@ -45,10 +45,8 @@ You will use the **`bcamt@teacher.com`** account, which has an **OpenAI API key 
 #### 3. **Design the Tutor Instructions**  
    - Provide **guidance on how the tutor should engage with students**. Think about how it should encourage students to explain their thinking and reflect on their methods.  
 
-   > *For example: “Ask students to explain their steps clearly. If their explanation isn’t clear, try asking, ‘What made you choose that method?’ Encourage them to explore other strategies.”*  
+   > *For example: “Ask students to explain their steps clearly. If their explanation is unclear, try asking, ‘Can you walk me through your thinking on that step?’ Encourage them to explore alternative strategies.”*
    
-   Use this as inspiration to craft instructions that fit your goals and teaching style.
-
 #### 4. **Set Guidelines for the Moderator**  
    - Define how the **moderator should review and adjust the AI responses**. This can help ensure that the tutor promotes exploration rather than giving direct answers, and that conversations remain encouraging and helpful.  
 
