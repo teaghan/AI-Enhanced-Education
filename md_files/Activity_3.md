@@ -66,3 +66,9 @@ You will use the **`bcamt@teacher.com`** account, which has an **OpenAI API key 
 
 
 By the end of this process, you’ll have created a tutor designed to **facilitate meaningful conversations** about math. Remember, these are just **starting points**—you are the expert on what works best in your teaching practice, so feel free to modify and tailor every step to your specific needs. Use feedback from testing to fine-tune your tutor and ensure it supports the kinds of student engagement you’re aiming for!
+
+## Feedback Form
+
+After building your tutor, please fill out the form below to provide feedback on the AI Tutors platform:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewEt93p_e0W92iOIbTXRUOFIzZcAb3QW3XAW7aKwhDO2zMcQ/viewform?embedded=true" width="640" height="1256" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
