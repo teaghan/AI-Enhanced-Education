@@ -2,79 +2,70 @@
 layout: embed_default
 ---
 
-# Activity 3: Comparing Student AI Tools
+# **Activity 3: Building an AI Tutor**
 
-In this activity, you will work in groups of 2 or 3. Each group will be assigned one of the following AI tutoring tools to understand how to solve systems of linear equations:
+## **Why Teachers Should Build AI Tools**  
 
-1. [Tutor Me](https://chatgpt.com/g/g-hRCqiqVlM-tutor-me)
-2. [Magic School AI](https://app.magicschool.ai/auth/signup)
-    - Go to "MagicStudent" in the top right
-3. [Playlab AI tool](https://www.playlab.ai/project/clrshs6ca0018q09p6y3jwrin)
+AI tools are becoming more common in education, but teachers are often not involved in their design. This limits the tools’ ability to address real classroom challenges. As the experts in student learning, **teachers are best positioned to build AI tools** that meet the needs of both students and educators. 
 
-> Note: Try using a different tool than the one assigned in the previous activity!
+This activity offers you the chance to create a custom AI tutor, demonstrating how teacher-built AI can be more effective in promoting student understanding.  
 
-## Objective
+---
 
-Act as a student seeking help from the assigned AI tutoring tool. 
+## **Use-Case: Helping Students Explain Their Reasoning**  
 
-1. Engage in a back-and-forth conversation to develop a better understanding of the topic.
-2. After the conversation, answer practice questions provided by the tool to receive feedback on your understanding.
-3. Bonus: Try finding a way to share your conversation with your teacher.
+A common challenge in math education is getting students to **confidently explain their reasoning**. While many students can solve problems, articulating their thought process often proves difficult. Yet, **explaining steps clearly is essential** for developing deeper understanding and critical thinking skills.
 
-**Topic:** Solving Systems of Linear Equations
+In this activity, you’ll use the [AI Tutors platform](https://my.ai-tutors.ca) to build a tutor that encourages students to verbalize their thinking. You’ll guide the AI to ask meaningful follow-up questions and provide constructive feedback—helping students learn through conversation. 
 
-**Context**: Assume you already understand how to solve single-variable, multi-step equations. Use the tool to learn how to solve systems of linear equations using methods such as substitution and elimination.
+## **Objective**  
 
-## Instructions
+Your goal is to build a flexible AI tutor that promotes student-centered learning through thoughtful conversations. The tutor will guide students to explain their steps, reflect on their process, and explore different problem-solving approaches. It should ask follow-up questions to ensure understanding and provide constructive feedback without giving direct answers. 
 
-1. **Sign up for your tool**: Ensure one group member creates an account for your assigned tool (note that Flexi does not require an account).
-2. **Engage in Conversation**: Use the assigned AI tool to ask questions and get explanations on solving systems of linear equations. Focus on understanding the methods and steps involved.
+To achieve this, you will design clear instructions and guidelines that shape the tutor’s interactions, ensuring they align with your teaching objectives. After testing the tutor using the **Test Interaction feature**, you can make final adjustments before launching it for others to explore.
 
-    > With Magic School AI, go to `MagicStudent` and select the `Tutor Me with AI` tools
+## **Instructions**
 
-3. **Answer Practice Questions**: Use the tool to get practice questions on the topic. Answer these questions and use the feedback provided to improve your understanding.
+You will use the **`bcamt@teacher.com`** account, which has an **OpenAI API key linked**, so you can focus on designing your tutor without technical barriers. Follow the steps below to create, test, and finalize your AI tutor.
 
-    > Try seeing what happens if you get some answers wrong!
 
-4. **Submit Feedback**: Once you have completed the activity, fill out the online feedback form.
+### 1. **Log in to AI Tutors**  
+   - Go to [AI Tutors](https://my.ai-tutors.ca) and log in using:
+     - **Username**: `bcamt@teacher.com`  
+     - **Password**: (provided during the workshop)
 
-### Example Prompts to Get Started: 
+### 2. **Define Your Tutor**  
+  - **Tutor Name and Description**:
 
-- “Teach me about negative exponents” 
-- “I'm struggling with solving this linear equation: 2x + 3 = 7. Can you walk me through the steps?” 
-- “Can you explain the quotient rule of exponents with some examples?” 
-- “How do I add and subtract polynomials? For example: (2x + 3) - (3x - 2)” 
-- “How do I simplify the expression (4x^2)/(2x)?” 
+   > *Be sure to create a UNIQUE name because there will be a lot of teachers creating tutors at the same time!*
 
-### Tips for Interacting with AI Tutors: 
+  - **Create the Tutor’s Introduction**: Write an **opening message** that sets the tone for the interaction.
 
-- Aim to learn and understand the material, not just to get the answers. 
-- Always ask ChatGPT to explain the process rather than just solve the problem for you. 
-- Ask follow-up questions if you are still unclear. 
-- To help type math, use these keyboard shortcuts: 
-    - Addition (+): Use the + key. 
-    - Subtraction (-): Use the - key. 
-    - Multiplication (×): Use the * key. 
-    - Division (÷): Use the / key. 
-    - Equals (=): Use the = key. 
-    - Greater Than (>): Use the > key. 
-    - Less Than (<): Use the < key. 
-    - Powers (x²): Use the ^ symbol followed by the exponent. For example: x^2 
-    - Square Root: Type \sqrt{} using the {} brackets to enclose the argument. For example: \sqrt{4} 
+   > *Think about how you’d want the tutor to welcome students and **what information the tutor needs from the student**.*  
 
-## Feedback Form
+### 3. **Design the Tutor Instructions**  
+   - Provide **guidance on how the tutor should engage with students**. Think about how it should encourage students to explain their thinking and reflect on their methods.  
 
-After completing your handout, please fill out the form below to provide feedback on your assigned tool:
+   > *For example: “Ask students to explain their steps clearly. If their explanation isn’t clear, try asking, ‘What made you choose that method?’ Encourage them to explore other strategies.”*  
+   
+   Use this as inspiration to craft instructions that fit your goals and teaching style.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKcaofgbiBkmSJvA9SN4fTeDZXJX9Ga3sL40FEwoodsk6f0Q/viewform?embedded=true" width="640" height="1517" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+### 4. **Set Guidelines for the Moderator**  
+   - Define how the **moderator should review and adjust the AI responses**. This can help ensure that the tutor promotes exploration rather than giving direct answers, and that conversations remain encouraging and helpful.  
 
-## Learning Outcome
+   > *I suggest providing the guidelines as numbered list!*  
+   
+### 5. **Configure Tutor Availability**  
+   - For this activity, select **Open to Public** so that everyone can view and test out your tutor
 
-* By the end of this activity, you should have practical experience using an AI tutoring tool from a student's perspective.
-* You will gain insights into the usability and effectiveness of different AI tools in providing educational support and feedback.
+### 6. **Test Your Tutor**  
+   - Use the **“Test Interaction” button** to initiate a conversation with your tutor.  
+   - Test how it prompts students to explain their thinking and provides feedback.  
 
-## Resources
+   > *Try experimenting with different student responses, including mistakes, to see how your tutor handles follow-up questions and encourages deeper thinking.* 
 
-- Access to [Tutor Me](https://chatgpt.com/g/g-hRCqiqVlM-tutor-me)
-- Access to [Flexi](https://www.ck12.org/flexi/)
-- Access to [Magic School AI](https://app.magicschool.ai/auth/signup)
+### 7. **Finalize and Save Your Tutor**  
+   - Once you’re satisfied with the behavior, click **“Launch Tutor”** to save it.
+
+
+By the end of this process, you’ll have created a tutor designed to **facilitate meaningful conversations** about math. Remember, these are just **starting points**—you are the expert on what works best in your teaching practice, so feel free to modify and tailor every step to your specific needs. Use feedback from testing to fine-tune your tutor and ensure it supports the kinds of student engagement you’re aiming for!

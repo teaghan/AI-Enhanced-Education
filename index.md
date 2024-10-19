@@ -56,5 +56,5 @@ Explore guidelines for effectively using AI in education:
 * [Shared files](https://drive.google.com/drive/folders/1GMYNcPfXtmcpKr8q8RwdVeR0MNhMyUSB?usp=drive_link)
 * Activity #1: [Writing Prompts](./md_files/Activity_1.html)
 * Activity #2: [Content Creation](./md_files/Activity_2.html)
-* Activity #3: [AI Tutor](./md_files/Activity_3.html)
-
+* Activity #3: [AI Tutors](./md_files/Activity_3.html)
+* Activity #4: [Student Interaction](./md_files/Activity_4.html)
