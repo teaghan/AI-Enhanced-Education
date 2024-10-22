@@ -23,6 +23,8 @@ Each tutor created on the platform consists of two core components:
    - **Extra Practice**: Teachers can configure tutors to generate additional problems to help students master challenging concepts.  
    - **Custom Tasks**: Tutors can support any specific instructional goal or activity assigned by the teacher.
 
+> The approach of having a Chatbot Tutor paired with a moderator provides excellent consistency in the responses and - having the *teacher* design these guidelines - ensures that the tutor is aligned with *their* expectations - not straying from the intentions they set within the instructions.
+
 ---
 
 ### Personalization and Access Controls
