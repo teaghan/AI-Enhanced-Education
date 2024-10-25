@@ -4,7 +4,9 @@ layout: embed_default
 
 # Activity 2: Comparing Teacher AI Tools
 
-In this activity, you will work in groups of 2 or 3. Each group will be assigned one of the following AI tools to create an effective handout for students on the topic of **"Solving linear equations with the variable on either side of the equation"**:
+In this activity, you will work in groups of 2 or 3. Each group will choose an AI tool to create an effective handout for students on a topic that is relevant for your class. For example, if you teach Math 9, you might want to create a handout on **"Solving linear equations with the variable on either side of the equation"**.
+
+You can choose from the following tools:
 
 1. [Khanmigo for Teachers](https://www.khanmigo.ai/teachers)
     - I recommend combining the "Informational Text" and the "Questions Generator" tool.
@@ -20,10 +22,6 @@ Create a handout that includes:
 1. An explanation section on the topic, which includes two examples with full solutions.
 2. A set of 10 scaffolded questions.
 3. Bonus: Include 3 word problems.
-
-**Topic:** Solving linear equations with the variable on either side of the equation.
-
-**Context**: Assume students already understand how to solve simple, two-step equations like \(2x-1=3\). Your handout should teach them how to solve equations like \(3x+4=5x-2\) and have them test their understanding.
 
 ## Instructions
 

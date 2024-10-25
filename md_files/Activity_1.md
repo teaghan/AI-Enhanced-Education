@@ -6,9 +6,9 @@ layout: embed_default
 
 ## Introduction
 
-Imagine you have a tool that excels at predicting the next most logical word based on a sequence of previous words. You want to use this tool to achieve a specific goal—let's say, designing a multi-step activity to help students derive the quadratic formula.
+Imagine you have a tool that excels at predicting the next most logical word based on a sequence of previous words. You want to use this tool to achieve a specific goal for your teaching practice (design a lesson plan, create a worksheet, etc.). 
 
-Initially, the tool doesn't know your goal. What kind of information could you provide to get the best response that meets your expectations?
+Initially, the tool doesn't know anything about you, your class, or your goal.
 
 ## Group Discussion
 
@@ -21,7 +21,7 @@ Try to come up with **a list of 4-8 distinct ideas**.
 
 ## Collaborative Idea Board
 
-After discussing in your groups, have **one member** go to the [Collaborative Idea Board](https://webwhiteboard.com/board/uXjVLNyXWcI=/?boardAccessToken=Col3YgLG9crZfvIDIL4RUvSMUQhhsWYH) and **write the list of your group's ideas on a single sticky note**.
+After discussing in your groups, have **one member** go to the [Collaborative Idea Board](https://webwhiteboard.com/board/uXjVLN59l40=/?boardAccessToken=rPRIOr1sDOv9wdPQsZMH2Y8AehXy9FGc) and **write the list of your group's ideas on a single sticky note**.
 
 ## Learning Outcome
 
