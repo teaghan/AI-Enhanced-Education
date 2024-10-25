@@ -15,7 +15,7 @@ AI Tutors is an open-source platform designed for educators to create, manage, a
 ### Build and Manage Custom Tutors  
 Each tutor created on the platform consists of two core components:  
 1. **Chatbot Tutor**: The primary AI that interacts with students, answering questions, providing guidance, and assisting with tasks assigned by the teacher.  
-2. **Moderator**: This component monitors every response the chatbot provides. If a response violates any of the teacher-defined guidelines, the moderator marks it as inappropriate and prompts the tutor to correct the response until it aligns with expectations.
+2. **Moderator**: This component monitors every response the chatbot provides. If a response violates any of the **teacher-defined guidelines**, the moderator marks it as inappropriate and prompts the tutor to correct the response until it aligns with expectations. For example:
 
 - **Interactive and Versatile AI Tutors**: The platform enables teachers to create tutors that can serve various educational purposes.  
    - **Real-Time Feedback**: Tutors can provide immediate feedback on student work to correct mistakes and reinforce learning.  
@@ -23,7 +23,7 @@ Each tutor created on the platform consists of two core components:
    - **Extra Practice**: Teachers can configure tutors to generate additional problems to help students master challenging concepts.  
    - **Custom Tasks**: Tutors can support any specific instructional goal or activity assigned by the teacher.
 
-> The approach of having a Chatbot Tutor paired with a moderator provides excellent consistency in the responses and - having the *teacher* design these guidelines - ensures that the tutor is aligned with *their* expectations - not straying from the intentions they set within the instructions.
+> The approach of having a Chatbot Tutor paired with a Moderator provides excellent consistency in the responses and - having the *teacher* design these guidelines - ensures that the tutor is aligned with *their* expectations - not straying from the intentions they set within the instructions.
 
 ---
 
@@ -34,8 +34,8 @@ Each tutor created on the platform consists of two core components:
    2. **Guidelines**: Rules for the moderator to ensure that responses are appropriate and meet the teacher’s expectations. If a response does not comply with the guidelines, the moderator corrects it automatically.
 
 - **Availability Settings**:
-   - **Open to Public**: These tutors are accessible to anyone, using the creator’s API key for interactions. Other teachers can also copy these tutors to customize for their own needs using their API keys.
-   - **Available for Viewing**: The tutor is publicly available, but users must provide their own API keys to interact with it. Teachers can copy and modify the tutor as a starting point for their own version.
+   - **Open to Public**: These tutors are accessible to anyone, using the creator’s API key for interactions. Other teachers can also copy these tutors to customize for their own needs using theirown  API key.
+   - **Available for Viewing**: The tutor is publicly available, but users must provide their own API key to interact with it. Teachers can copy and modify the tutor as a starting point for their own version.
    - **Completely Private**: These tutors are accessible only to the creator unless the teacher generates an access code to share with specific students or classes.
 
 ---

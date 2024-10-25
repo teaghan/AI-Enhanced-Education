@@ -15,7 +15,7 @@ This activity gives you the opportunity to create a custom AI tutor, showing how
 
 A common challenge in math education is getting students to **confidently explain their reasoning**. While many students can solve problems, articulating their thought process often proves difficult. Yet, **explaining steps clearly is essential** for developing deeper understanding and critical thinking skills.
 
-In this activity, you’ll use the <a href="https://my.ai-tutors.ca" target="_blank">AI Tutors platform</a> to build a tutor that encourages students to verbalize their thinking. You’ll guide the AI to ask meaningful follow-up questions and provide constructive feedback—helping students learn through conversation. 
+In this activity, you’ll use the <a href="https://ai-tutors-252d0369f9d6.herokuapp.com/" target="_blank">AI Tutors platform</a> to build a tutor that encourages students to verbalize their thinking. You’ll guide the AI to ask meaningful follow-up questions and provide constructive feedback—helping students learn through conversation. 
 
 ### **Objective**  
 
@@ -29,7 +29,7 @@ You will use the **`bcamt@teacher.com`** account, which has an **OpenAI API key 
 
 
 #### 1. **Log in to AI Tutors**  
-   - Go to <a href="https://my.ai-tutors.ca" target="_blank">AI Tutors</a> and log in using:
+   - Go to <a href="https://ai-tutors-252d0369f9d6.herokuapp.com/" target="_blank">AI Tutors</a> and log in using:
      - **Username**: `bcamt@teacher.com`  
      - **Password**: (provided during the workshop)
 

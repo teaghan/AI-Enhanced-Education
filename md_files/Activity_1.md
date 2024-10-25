@@ -21,7 +21,7 @@ Try to come up with **a list of 4-8 distinct ideas**.
 
 ## Collaborative Idea Board
 
-After discussing in your groups, have **one member** go to the [Collaborative Idea Board](https://webwhiteboard.com/board/zbpYCfXvWWsN4r3z8laxtGscjAHPTJWM/) and **write the list of your group's ideas on a single sticky note**.
+After discussing in your groups, have **one member** go to the [Collaborative Idea Board](https://webwhiteboard.com/board/uXjVLNyXWcI=/?boardAccessToken=Col3YgLG9crZfvIDIL4RUvSMUQhhsWYH) and **write the list of your group's ideas on a single sticky note**.
 
 ## Learning Outcome
 
