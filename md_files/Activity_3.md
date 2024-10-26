@@ -13,11 +13,15 @@ This activity gives you the opportunity to create a custom AI tutor, showing how
 
 ### **Objective**  
 
-Your goal is to build an AI tutor that mimics **one of the many roles** you take on in the classroom while interacting with your students. This could be direct interaction or indirect, such as providing feedback on their work.
+Your goal is to build an AI tutor that mimics **one of the many roles** you play in the classroom—whether through direct interaction with students or indirectly, such as providing feedback on their work.  
 
-To achieve this, you will design clear instructions and guidelines that shape the tutor’s interactions, ensuring they align with your teaching objectives. 
+To do this, you’ll craft clear instructions and guidelines to shape how the tutor interacts with students, ensuring its responses align with your teaching objectives. 
 
 After testing the tutor using the **Test Interaction feature**, you can make final adjustments before launching it for others to explore.
+
+---
+
+This version keeps things concise while improving clarity and flow. It maintains a professional tone but feels more engaging and easier to follow.
 
 ### **Instructions**
 

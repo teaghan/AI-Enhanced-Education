@@ -4,7 +4,9 @@ layout: embed_default
 
 # Activity 2: Comparing Teacher AI Tools
 
-In this activity, you will work in groups of 2 or 3. Each group will choose an AI tool to create an effective handout for students on a topic that is relevant for your class. For example, if you teach Math 9, you might want to create a handout on **"Solving linear equations with the variable on either side of the equation"**.
+In this activity, you will work in groups of 2 or 3. Each group will choose an AI tool to create an effective handout for students on a topic that is relevant for your class. 
+
+For example, if you teach Math 9, you might want to create a handout on **"Solving linear equations with the variable on either side of the equation"**.
 
 You can choose from the following tools:
 
