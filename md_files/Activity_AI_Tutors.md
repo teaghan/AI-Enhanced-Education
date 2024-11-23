@@ -2,7 +2,7 @@
 layout: embed_default
 ---
 
-# **Activity 3: Building an AI Tutor**
+# **Building an AI Tutor**
 
 
 As the experts in student learning, **teachers are best positioned to build AI tools** that meet the needs of both students and educators. 
@@ -23,11 +23,11 @@ After testing the tutor using the **Test Interaction feature**, you can make fin
 
 ### **Instructions**
 
-You will use the **`bcamt@teacher.com`** account, which has an **OpenAI API key linked**, so you can focus on designing your tutor without technical barriers. Follow the steps below to create, test, and finalize your AI tutor.
+You will use the **`teacher@sd64.ai`** account, which has an **OpenAI API key linked**, so you can focus on designing your tutor without technical barriers. Follow the steps below to create, test, and finalize your AI tutor.
 
 #### 1. **Log in to AI Tutors**  
    - Go to <a href="https://ai-tutors-252d0369f9d6.herokuapp.com/" target="_blank">AI Tutors</a> and log in using:
-     - **Username**: `bcamt@teacher.com`  
+     - **Username**: `teacher@sd64.ai`  
      - **Password**: (provided during the workshop)
 
 #### 2. **Define Your Tutor**  
