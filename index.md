@@ -60,3 +60,10 @@ Explore guidelines for effectively using AI in education:
 * Activity #2: [Content Creation](./md_files/Activity_2.html)
 * Activity #3: [Building AI Tutors](./md_files/Activity_3.html)
 * Activity #4: [Student-AI Interaction](./md_files/Activity_4.html)
+
+
+### SD64 School-Based Pro-D (Nov 29): “Empowering Educators with AI”
+
+* [Slides](https://docs.google.com/presentation/d/18KrGvwfNbxzfIQeDKJSXSj6QbJraJMobYaX4w7tZf2I/edit?usp=sharing)
+* [Shared files](https://drive.google.com/drive/folders/18vdq4IJ5ga-im5Ac-71Fa6nXJZIexvnj?usp=drive_link)
+* Activity: [Building an AI Tutor](./md_files/Activity_AI_Tutors.html)
