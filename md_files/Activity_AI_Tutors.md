@@ -5,7 +5,7 @@ layout: embed_default
 # **Building an AI Tutor**
 
 
-As the experts in student learning, **teachers are best positioned to build AI tools** that meet the needs of both students and educators. 
+As experts in student learning, **teachers are best positioned to build AI tools** that meet the needs of both students and educators. 
 
 This activity gives you the opportunity to create a custom AI tutor, showing how teacher-built AI can be tailored to serve your students in the way that best fits their needs.
 
@@ -13,11 +13,11 @@ This activity gives you the opportunity to create a custom AI tutor, showing how
 
 ### **Objective**  
 
-Your goal is to build an AI tutor that mimics **one of the many roles** you play in the classroom—whether through direct interaction with students or indirectly, such as providing feedback on their work.  
+Your goal is to build an AI tutor that mimics **one of the many roles** you play in the classroom—whether through direct one-on-one interaction with students or indirect interaction, such as providing feedback on their work.  
 
 To do this, you’ll craft clear instructions and guidelines to shape how the tutor interacts with students, ensuring its responses align with your teaching objectives. 
 
-After testing the tutor using the **Test Interaction feature**, you can make final adjustments before launching it for others to explore.
+After testing the tutor, you can make adjustments before launching it for others to explore.
 
 ---
 
@@ -33,7 +33,7 @@ You will use the **`teacher@sd64.ai`** account, which has an **OpenAI API key li
 #### 2. **Define Your Tutor**  
   - **Tutor Name and Description**:
 
-   > *Be sure to create a unique name because there will be a lot of teachers creating tutors at the same time!*
+   > *Be sure to create a unique name!*
 
   - **Create the Tutor’s Introduction**: Write an **opening message** that sets the tone for the interaction.
 
@@ -53,7 +53,7 @@ You will use the **`teacher@sd64.ai`** account, which has an **OpenAI API key li
    - For this activity, select **Open to Public** so that everyone can view and test out your tutor
 
 #### 6. **Test Your Tutor**  
-   - Use the **“Test Interaction” button** to initiate a conversation with your tutor.  
+   - You can use the **“Test Interaction” button** to initiate a conversation with your tutor.  
    - Test how it prompts students to explain their thinking and provides feedback.  
 
    > *Try experimenting with different student responses, including mistakes, to see how your tutor handles follow-up questions and encourages deeper thinking.* 
