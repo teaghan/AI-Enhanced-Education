@@ -40,7 +40,7 @@ Each link will take you to a description of the tool, an explanation of how it c
 - [AI Tutors](./md_files/AI_Tutors.html): a platform for teachers to create and share their own AI assistants for student use.
 - [Math Content Builder](https://chatgpt.com/g/g-38NiEiNWQ-math-content-builder): a custom GPT for generating comprehensive math handouts. 
 - The [Building a Thinking Classroom](https://chatgpt.com/g/g-DTEvkoQnU-building-thinking-classrooms) GPT: aims to assist teachers in fostering a classroom environment that promotes critical thinking and problem-solving.
-- [Report Card Assistant](https://teaghan-educational-prompt-engineer-report-commentermain-vgh7ws.streamlit.app/): Upload your class CSV file, customize your preferences, and generate personalized report card comments with ease.
+- [Report Card Assistant](https://reportcards.streamlit.app/): Upload your class CSV file, customize your preferences, and generate personalized report card comments with ease.
 - AI generated [Astronomy 12 course content](https://teaghan.github.io/astronomy-12/).
 - An [AI tutor](https://teaghan-educational-prompt-engineering-tutormain-dkogwm.streamlit.app/) for the Astronomy course that references the course content.
 
