@@ -92,7 +92,10 @@ The AI Assistant is your prompt-building partner, helping you create more effect
 #### Basic Settings
 - Edit the app name, welcome message, and description at any time
 - Allow image inputs from the users
-> Image inputs make it much easier for student users to share their work with the app because they can easily upload a photo or screenshot!
+
+<div class="alert alert-block alert-info">
+<h4>User Images:</h4> Allow users to attach images makes it much easier for students to share their work with the app because they can easily upload a photo or screenshot!
+</div>
 
 #### Starter Inputs
 Streamline initial interactions by collecting information through four input types:
@@ -140,7 +143,10 @@ Choose who can access your app:
 - **Playlab**: Available to all Playlab users
 - **Public**: Anyone with the link can access
 
-> **Important for Teachers**: To allow students to use your app without signing in, select "Public". Don't worry - the app is only shared with people who have the link to it!
+
+<div class="alert alert-block alert-info">
+<h4>Important for Teachers:</h4> To allow students to use your app without signing in, select "Public". Don't worry - the app is only shared with people who have the link to it!
+</div>
 
 After publishing, use the "Copy published link" button to share your app.
 
