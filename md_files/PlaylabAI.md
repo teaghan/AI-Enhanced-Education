@@ -102,90 +102,89 @@ Streamline initial interactions by collecting information through four input typ
 - **Dropdown Menus**: Predefined choices (minimum two options)
 - **File Upload**: Document submission for additional context
 
-Each input can be:
-- Marked as required/optional
-- Reordered through drag-and-drop
-- Previewed before publishing
-
 ![Screenshot showing the Starter Inputs settings in Playlab](../playlab/screenshots/ss_starter_inputs.png)
 
-
-[Screenshot: Starter Inputs panel showing different input types]
-
 #### Adding References
-Upload additional documents to enhance your app's knowledge:
-- Support formats like PDFs and text files
+Upload additional documents and/or urls to enhance your app's knowledge:
 - Perfect for educational standards, curriculum guides, or subject material
-- AI will incorporate these references in responses
-- Manage references through the References tab:
-  - Add/remove documents as needed
-  - Search through your reference library
-  - Toggle reference usage per app
+- The AI will use these references to guide responses
+> References are shared across your workspace and you can search through your reference library
 
-[Screenshot: References upload interface]
+![Screenshot showing the References settings in Playlab](../playlab/screenshots/ss_references.png)
 
 #### Choosing AI Models
-Select the right model for your needs:
-- GPT-4 Turbo and Claude v2.1:
-  - Best for complex reasoning
-  - Ideal for starting out
-- GPT-3.5 Turbo and Claude Instant:
-  - Faster response times
-  - Good for straightforward tasks
-- Adjust variability (0-100%):
-  - 0%: Consistent, predictable responses
-  - 100%: More varied, creative outputs
-  - 70%: Default, works for most cases
+Select from a range of AI models based on your needs:
 
-[Screenshot: Model selection interface]
+**Advanced Models** (Complex tasks, detailed analysis)
+- Claude 3 Opus: Best for complex analysis and multi-step tasks
+- Claude 3.7 Sonnet (Reasoning): Step-by-step problem solving
+- GPT-4o: Complex, multi-step tasks
+- o1: Advanced reasoning and problem-solving
+- Llama 3.3 70B: Strong reasoning and general knowledge
+
+**General Purpose Models** (Balanced speed/accuracy)
+- Claude 3.5/3.7 Sonnet: Creative expression and general tasks
+- Gemini 2 Flash: Optimized for fast responses
+
+Adjust the **variability** (0-100%) to control response consistency:
+- Lower: More consistent outputs
+- Higher: More varied, creative responses
+- 70%: Recommended default
+
+> If you're interested, [this document](https://docs.google.com/document/d/154eoY8_7-gIHiyHWVd_OwHmgExRF4POlmZBJRHqjyeU/edit?tab=t.0) provides some great advice on choosing the right model. 
+
+![Screenshot showing the Models Selection in Playlab](../playlab/screenshots/ss_models.png)
 
 ### Sharing Your App
-Control access to your app through multiple levels:
-- Not Shared: Private access only
-- Workspace: Available to workspace members
-- Organization: Accessible across your organization
-- Playlab: Available to all Playlab users
-- Public: Anonymous access via link
+Choose who can access your app:
+- **Not Published**: Private access (only you)
+- **Workspace**: Available to workspace members
+- **Playlab**: Available to all Playlab users
+- **Public**: Anyone with the link can access
 
-Note: Public links won't provide usage data, while other sharing levels allow tracking of user interactions.
+> **Important for Teachers**: To allow students to use your app without signing in, select "Public". Don't worry - the app is only shared with people who have the link to it!
 
-[Screenshot: Share settings panel]
+After publishing, use the "Copy published link" button to share your app.
+
+![Screenshot showing the Share settings in Playlab](../playlab/screenshots/ss_models.png)
 
 ### Monitoring Usage
-Track how your app is being used:
-- Access the Review tab in your workspace
-- View individual conversations and message counts
-- Filter by specific apps or users
-- See usage patterns and engagement
-> Note: You can only view named usage data for members of your workspace; external users appear as anonymous
+Track app usage through the "Activity" tab in your App or Workspace:
+- View conversations and message counts
+- Filter by app, user, or date range
 
-[Screenshot: Usage analytics dashboard]
+> **Note**: While you can see named data for workspace members, external users appear as anonymous for privacy.
+
+![Screenshot showing the Activity tracking in Playlab](../playlab/screenshots/ss_acticity.png)
+
+### Collecting Student Conversations
+Since students will be seen as "anonymous" users, students can share their conversations with you in two ways:
+
+1. **Share Link**
+   - Click the Share button
+   - Select "Copy Conversation Link"
+   - Share the link with the teacher
+
+2. **PDF Export**
+   - Click Export
+   - Select "Print Conversation"
+   - Select "Save as PDF" as the printer
+   - Submit the PDF file
 
 ### Remixing Existing Apps
-Learn from and build upon the community's work:
-1. Explore existing tools in your area of interest
-2. Test at least three different tools for inspiration
-3. Click "Remix this app" on promising tools
-4. When remixing:
-   - Understand the original tool's purpose
-   - Plan your modifications
-   - Read through the entire prompt first
-   - Make small, incremental changes
-   - Test frequently as you modify
-   - Document your changes
-   - Consider both similar and different use cases for broader inspiration
 
-[Screenshot: Remix interface with example modifications]
+Save time by building on existing apps! You can remix:
+- Your own apps (to test variations)
+- Community apps (to adapt their ideas)
 
-Tips for Success:
-- Start with focused, specific goals
-- Test your app frequently during development
-- Use the AI Assistant for guidance and improvements
-- Learn from the community's existing tools
-- Document changes when remixing
-- Consider collaborating with others in your workspace
-
-For more detailed guides and resources, visit the [Playlab Community](https://www.playlab.ai/explore).
+#### How to Remix
+1. Browse the [Playlab Community](https://www.playlab.ai/explore)
+2. Find an app you like
+3. Click "Remix this app"
+4. Make it your own:
+   - Start with small changes
+   - Test as you go
+   - Keep what works
 
 * * *
 
