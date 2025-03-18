@@ -116,16 +116,18 @@ Upload additional documents and/or urls to enhance your app's knowledge:
 #### Choosing AI Models
 Select from a range of AI models based on your needs:
 
-**Advanced Models** (Complex tasks, detailed analysis)
-- Claude 3 Opus: Best for complex analysis and multi-step tasks
-- Claude 3.7 Sonnet (Reasoning): Step-by-step problem solving
-- GPT-4o: Complex, multi-step tasks
-- o1: Advanced reasoning and problem-solving
-- Llama 3.3 70B: Strong reasoning and general knowledge
+| Model | Best For | Key Strengths | Trade-offs |
+|:------|:---------|:-------------|:-----------|
+| Claude 3 Opus | Complex analysis, math, coding | Highly accurate, follows detailed instructions | Slower response times |
+| Claude 3.5 Sonnet | General tasks, creative work | Good speed/accuracy balance, versatile | Less powerful than 3.7 models |
+| Claude 3.7 Sonnet | Balanced performance | Fast, accurate, good instruction following | Not specialized for reasoning |
+| Claude 3.7 Sonnet (Reasoning) | Step-by-step problem solving | Excellent at math, coding, explanations | Slower, less creative |
+| Gemini 2 Flash | Quick, simple tasks | Very fast responses | May miss complex instructions |
+| GPT-4o | Multi-step tasks | Well-balanced, versatile | Medium speed, can overcomplicate |
+| LearnLM | Educational contexts | Specialized for teaching/learning | Limited to educational use |
+| Llama 3.3 | General tasks, math | Strong overall performance | Slower, less precise |
+| O1 Reasoning | Complex problem-solving | Excellent reasoning, high accuracy | Slow, not for creative tasks |
 
-**General Purpose Models** (Balanced speed/accuracy)
-- Claude 3.5/3.7 Sonnet: Creative expression and general tasks
-- Gemini 2 Flash: Optimized for fast responses
 
 Adjust the **variability** (0-100%) to control response consistency:
 - Lower: More consistent outputs
