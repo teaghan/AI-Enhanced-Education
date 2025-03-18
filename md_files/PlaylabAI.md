@@ -4,13 +4,14 @@ layout: embed_default
 
 # Playlab AI
 
-**Playlab AI** is an innovative platform designed to enable educators to create, remix, and share custom AI-powered educational tools. With a focus on accessibility and collaboration, Playlab AI allows teachers to design apps tailored to their classroom needs, fostering creativity and personalized learning experiences.
+**Playlab AI** is an innovative platform that enables educators to create, remix, and share custom AI-powered educational tools. The platform focuses on making AI technology accessible and collaborative for teachers to design apps tailored to their classroom needs.
+
 
 * * *
 
 ## Mission and Vision
 
-Playlab's mission is to democratize AI app creation in education, empowering teachers to build tools that enhance student learning. As a 501(c)(3) nonprofit, Playlab is dedicated to advancing educational equity and ensuring that AI technology is accessible to all, regardless of background or resources. Playlab focuses on removing barriers so that educators can create AI apps to engage students and meet their specific needs.
+As a 501(c)(3) nonprofit, Playlab is dedicated to democratizing AI app creation in education and advancing educational equity. The organization removes barriers to ensure AI technology is accessible to all educators, regardless of background or resources.
 
 > For more details, visit the [Playlab Mission Page](https://www.playlab.ai/about).
 
@@ -18,16 +19,14 @@ Playlab's mission is to democratize AI app creation in education, empowering tea
 
 ## Key Features for Teachers
 
-Playlab AI offers a flexible environment where educators can create or remix apps, customize them to their curriculum, and share them with other educators. The platform supports collaboration, allowing teachers to adapt community-built tools or start from scratch to design personalized educational experiences.
-
 ### Create and Collaborate
 - **App Creator**: Build AI apps from scratch or remix existing ones from the Playlab community.
-- **Remix Community Apps**: Browse and adapt apps created by educators worldwide, customizing them to fit specific classroom needs.
-- **Sharing**: Share created apps with colleagues, students, or the Playlab community, promoting collaboration across schools and districts.
+- **Remix Community Apps**: Browse and adapt apps created by educators worldwide.
+- **Sharing**: Share created apps with colleagues, students, or the Playlab community.
 
 ### Tools for Students
 
-Playlab AI also supports students by providing tools designed to help them engage in creative and interactive learning. These include project assistants, writing coaches, and real-world context generators, all of which foster critical thinking and student agency in learning.
+Playlab AI provides tools designed to help students engage in creative and interactive learning, including project assistants, writing coaches, and real-world context generators that foster critical thinking and student agency.
 
 * * *
 
@@ -137,7 +136,7 @@ Adjust the **variability** (0-100%) to control response consistency:
 - Higher: More varied, creative responses
 - 70%: Recommended default
 
-> If you're interested, [this document](https://docs.google.com/document/d/154eoY8_7-gIHiyHWVd_OwHmgExRF4POlmZBJRHqjyeU/edit?tab=t.0) provides some great advice on choosing the right model. 
+> [This document](https://docs.google.com/document/d/154eoY8_7-gIHiyHWVd_OwHmgExRF4POlmZBJRHqjyeU/edit?tab=t.0) provides some great advice on choosing the right model. 
 
 * * *
 
@@ -206,3 +205,4 @@ Save time by building on existing apps! You can remix:
 
 - [Playlab AI Website](https://www.playlab.ai)
 - [Playlab Community](https://www.playlab.ai/explore)
+- [Playlab's Privacy Policies](https://www.playlab.ai/policies/privacy)
