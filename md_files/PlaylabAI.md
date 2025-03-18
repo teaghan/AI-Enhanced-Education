@@ -77,6 +77,8 @@ When writing your instructions, consider including:
 
 ![Screenshot showing the Create App interface in Playlab](../playlab/screenshots/ss_create_app.png)
 
+* * *
+
 ### Using the AI Assistant
 The AI Assistant is your prompt-building partner, helping you create more effective apps:
 - Access it from the right toolbar's
@@ -88,13 +90,15 @@ The AI Assistant is your prompt-building partner, helping you create more effect
 
 ![Screenshot showing the Assistant interface in Playlab](../playlab/screenshots/ss_assistant.png)
 
+* * *
+
 ### Customizing Your App
 #### Basic Settings
 - Edit the app name, welcome message, and description at any time
 - Allow image inputs from the users
 
 <div class="alert alert-block alert-info">
-<h4>User Images:</h4> Allow users to attach images makes it much easier for students to share their work with the app because they can easily upload a photo or screenshot!
+<h4>User Images:</h4> Allowing users to attach images makes it much easier for students to share their work with the app because they can easily upload a photo or screenshot!
 </div>
 
 #### Starter Inputs
@@ -102,7 +106,7 @@ Streamline initial interactions by collecting information through four input typ
 
 - **Short Text**: Single-line responses (e.g., grade level, subject)
 - **Long Answer**: Detailed responses for preferences or explanations
-- **Dropdown Menus**: Predefined choices (minimum two options)
+- **Dropdown Menus**: Predefined choices
 - **File Upload**: Document submission for additional context
 
 ![Screenshot showing the Starter Inputs settings in Playlab](../playlab/screenshots/ss_starter_inputs.png)
@@ -128,7 +132,6 @@ Select from a range of AI models based on your needs:
 | Llama 3.3 | General tasks, math | Strong overall performance | Slower, less precise |
 | O1 Reasoning | Complex problem-solving | Excellent reasoning, high accuracy | Slow, not for creative tasks |
 
-
 Adjust the **variability** (0-100%) to control response consistency:
 - Lower: More consistent outputs
 - Higher: More varied, creative responses
@@ -136,7 +139,7 @@ Adjust the **variability** (0-100%) to control response consistency:
 
 > If you're interested, [this document](https://docs.google.com/document/d/154eoY8_7-gIHiyHWVd_OwHmgExRF4POlmZBJRHqjyeU/edit?tab=t.0) provides some great advice on choosing the right model. 
 
-![Screenshot showing the Models Selection in Playlab](../playlab/screenshots/ss_models.png)
+* * *
 
 ### Sharing Your App
 Choose who can access your app:
@@ -145,14 +148,15 @@ Choose who can access your app:
 - **Playlab**: Available to all Playlab users
 - **Public**: Anyone with the link can access
 
-
 <div class="alert alert-block alert-info">
 <h4>Important for Teachers:</h4> To allow students to use your app without signing in, select "Public". Don't worry - the app is only shared with people who have the link to it!
 </div>
 
-After publishing, use the "Copy published link" button to share your app.
+After publishing, use the "Copy published link" button to share your app:
 
 ![Screenshot showing the Share settings in Playlab](../playlab/screenshots/ss_share.png)
+
+* * *
 
 ### Monitoring Usage
 Track app usage through the "Activity" tab in your App or Workspace:
@@ -162,6 +166,8 @@ Track app usage through the "Activity" tab in your App or Workspace:
 > **Note**: While you can see named data for workspace members, external users appear as anonymous for privacy.
 
 ![Screenshot showing the Activity tracking in Playlab](../playlab/screenshots/ss_activity.png)
+
+* * *
 
 ### Collecting Student Conversations
 Since students will be seen as "anonymous" users, students can share their conversations with you in two ways:
@@ -176,6 +182,8 @@ Since students will be seen as "anonymous" users, students can share their conve
    - Select "Print Conversation"
    - Select "Save as PDF" as the printer
    - Submit the PDF file
+
+* * *
 
 ### Remixing Existing Apps
 
