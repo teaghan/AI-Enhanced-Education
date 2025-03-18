@@ -110,8 +110,6 @@ Upload additional documents and/or urls to enhance your app's knowledge:
 - The AI will use these references to guide responses
 > References are shared across your workspace and you can search through your reference library
 
-![Screenshot showing the References settings in Playlab](../playlab/screenshots/ss_references.png)
-
 #### Choosing AI Models
 Select from a range of AI models based on your needs:
 
@@ -146,7 +144,7 @@ Choose who can access your app:
 
 After publishing, use the "Copy published link" button to share your app.
 
-![Screenshot showing the Share settings in Playlab](../playlab/screenshots/ss_models.png)
+![Screenshot showing the Share settings in Playlab](../playlab/screenshots/ss_share.png)
 
 ### Monitoring Usage
 Track app usage through the "Activity" tab in your App or Workspace:
@@ -155,7 +153,7 @@ Track app usage through the "Activity" tab in your App or Workspace:
 
 > **Note**: While you can see named data for workspace members, external users appear as anonymous for privacy.
 
-![Screenshot showing the Activity tracking in Playlab](../playlab/screenshots/ss_acticity.png)
+![Screenshot showing the Activity tracking in Playlab](../playlab/screenshots/ss_activity.png)
 
 ### Collecting Student Conversations
 Since students will be seen as "anonymous" users, students can share their conversations with you in two ways:
