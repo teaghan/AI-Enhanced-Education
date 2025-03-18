@@ -9,7 +9,7 @@ layout: embed_default
 
 * * *
 
-## Mission and Vision
+## Mission
 
 As a 501(c)(3) nonprofit, Playlab is dedicated to democratizing AI app creation in education and advancing educational equity. The organization removes barriers to ensure AI technology is accessible to all educators, regardless of background or resources.
 
@@ -24,9 +24,18 @@ As a 501(c)(3) nonprofit, Playlab is dedicated to democratizing AI app creation 
 - **Remix Community Apps**: Browse and adapt apps created by educators worldwide.
 - **Sharing**: Share created apps with colleagues, students, or the Playlab community.
 
-### Tools for Students
+### Tools for Teachers
+- **Lesson Planning**: AI assistants to help generate lesson plans, activities, and assessments.
+- **Administrative Support**: Tools for grading, feedback generation, and progress tracking.
+- **Resource Creation**: Automated creation of worksheets, study guides, and educational materials.
+- **Differentiation Helper**: Tools to adapt content for various learning levels and styles.
 
-Playlab AI provides tools designed to help students engage in creative and interactive learning, including project assistants, writing coaches, and real-world context generators that foster critical thinking and student agency.
+### Tools for Students
+- **Project Assistant**: AI-powered guidance for research and project development.
+- **Writing Coach**: Help with composition, editing, and writing improvement.
+- **Interactive Learning**: Real-world context generators and scenario-based learning tools.
+- **Study Support**: Personalized study guides and practice problem generators.
+- **Skill Development**: Tools for critical thinking, problem-solving, and creative exploration.
 
 * * *
 
@@ -71,8 +80,7 @@ When writing your instructions, consider including:
 - The AI's expertise and role
 - Your target audience (e.g., educators, students)
 - A step-by-step workflow of what the app should do
-- Clear conversation rules and output structure
-> Plan for 3-5 iterations of testing and refinement
+- Guidelines and guardrails for the AI to follow
 
 ![Screenshot showing the Create App interface in Playlab](../playlab/screenshots/ss_create_app.png)
 
@@ -162,14 +170,14 @@ Track app usage through the "Activity" tab in your App or Workspace:
 - View conversations and message counts
 - Filter by app, user, or date range
 
-> **Note**: While you can see named data for workspace members, external users appear as anonymous for privacy.
+> **Note**: While you can see the names of users who have logged in, external users appear as anonymous.
 
 ![Screenshot showing the Activity tracking in Playlab](../playlab/screenshots/ss_activity.png)
 
 * * *
 
 ### Collecting Student Conversations
-Since students will be seen as "anonymous" users, students can share their conversations with you in two ways:
+Since students will be seen as "anonymous" users, you can have them share their conversations with you in two ways:
 
 1. **Share Link**
    - Click the Share button
@@ -180,7 +188,7 @@ Since students will be seen as "anonymous" users, students can share their conve
    - Click Export
    - Select "Print Conversation"
    - Select "Save as PDF" as the printer
-   - Submit the PDF file
+   - Submit the PDF file to the teacher
 
 * * *
 
