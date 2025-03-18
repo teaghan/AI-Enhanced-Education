@@ -66,6 +66,7 @@ I've summarize some of the key takeaways here.
 3. After clicking "Create App", you'll see two main panels:
    - Left: Preview panel for testing your app
    - Right: Instructions panel for writing prompts
+4. You can use the existing template to guide your instruction writing, or remove this and start from scratch!
 
 When writing your instructions, consider including:
 - The AI's expertise and role
@@ -78,28 +79,38 @@ When writing your instructions, consider including:
 
 ### Using the AI Assistant
 The AI Assistant is your prompt-building partner, helping you create more effective apps:
-- Access it from the right toolbar's Assistant tab
-- Select your experience level (beginner/intermediate/advanced)
-- Choose between brainstorming new ideas or getting coaching on existing prompts
+- Access it from the right toolbar's
 - The assistant will:
   - Analyze your current prompt
   - Highlight existing strengths
   - Suggest specific improvements
   - Provide revised versions upon request
-  - Answer questions during iteration
 
-[Screenshot: AI Assistant interface with coaching suggestions]
+![Screenshot showing the Assistant interface in Playlab](../playlab/screenshots/ss_assistant.png)
 
 ### Customizing Your App
 #### Basic Settings
-- Edit the welcome message to set the right context for users
-- Update app name and description at any time
-- Add starter inputs to streamline initial interactions:
-  - Define specific fields you need (e.g., grade level, topic, student interests)
-  - Reduces back-and-forth conversation
-  - Helps users get to desired outcomes faster
+- Edit the app name, welcome message, and description at any time
+- Allow image inputs from the users
+> Image inputs make it much easier for student users to share their work with the app because they can easily upload a photo or screenshot!
 
-[Screenshot: App settings panel]
+#### Starter Inputs
+Streamline initial interactions by collecting information through four input types:
+
+- **Short Text**: Single-line responses (e.g., grade level, subject)
+- **Long Answer**: Detailed responses for preferences or explanations
+- **Dropdown Menus**: Predefined choices (minimum two options)
+- **File Upload**: Document submission for additional context
+
+Each input can be:
+- Marked as required/optional
+- Reordered through drag-and-drop
+- Previewed before publishing
+
+![Screenshot showing the Starter Inputs settings in Playlab](../playlab/screenshots/ss_starter_inputs.png)
+
+
+[Screenshot: Starter Inputs panel showing different input types]
 
 #### Adding References
 Upload additional documents to enhance your app's knowledge:
