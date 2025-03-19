@@ -25,26 +25,24 @@ Your goal is to build an AI app that addresses a specific need in your education
 #### 1. **Brainstorm Your App's Purpose**
    Complete each sentence in the table below to clarify your app's purpose:
 
-   | Component | Complete this sentence...                    |
    |-----------|----------------------------------------------|
-   | Audience  | I am building an app for...                  |
+   | Audience:  | I am building an app for...                  |
    |           |                                              |
    |           |                                              |
-   | Problem   | The problem I want to solve is...            |
+   | Problem:   | The problem I want to solve is...            |
    |           |                                              |
    |           |                                              |
-   | Solution  | The app will...                              |
+   | Solution:  | The app will...                              |
    |           |                                              |
    |           |                                              |
 
    > *Examples:*
    > - A writing coach for students to improve their essay drafts
    > - A lesson plan generator that aligns with your teaching philosophy
-   > - A differentiation helper that adapts problems for various learning levels
-   > - A project feedback assistant that provides constructive comments
+   > - A differentiation helper that adapts problems for various proficiency levels
 
 #### 2. **Join Playlab**
-   - Join the SD64 workspace using the [**invitation link**](https://www.playlab.ai/invitation/SD64-BCFJMG)
+   - Join the SD64 workspace using the <span style="color: blue;">[**invitation link**](https://www.playlab.ai/invitation/SD64-BCFJMG)</span>
    - Create your account or sign in
    - You'll be added to our shared workspace where you can create and test apps
 
