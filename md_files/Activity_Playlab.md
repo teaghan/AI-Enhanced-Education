@@ -16,7 +16,7 @@ As experts in education, **teachers are best positioned to build AI tools** that
 
 ### **Objective**  
 
-Your goal is to build an AI app that addresses a specific need in your educational practice - whether it's a tool for students, a teaching assistant, or an administrative helper.
+Your goal is to build an AI app that addresses a specific need in your educational practice - whether it's a tool for students, teachers, or an administrative helper.
 
 ---
 
@@ -55,7 +55,7 @@ Your goal is to build an AI app that addresses a specific need in your education
      - Left: Preview panel for testing
      - Right: Instructions panel for writing prompts
 
-> You can use the existing template to guide your instruction writing, or remove this and start from scratch!
+> 💡 *Tip: You can use the existing template to guide your instruction writing, or remove this and start from scratch!*
 
    ![Screenshot showing the Create App interface in Playlab](../playlab/screenshots/ss_create_app.png)
 
@@ -66,9 +66,15 @@ Your goal is to build an AI app that addresses a specific need in your education
    - Step-by-step workflow
    - Guidelines for the AI to follow
 
-   > *Tip: Start with a clear welcome message that explains what the app does and what information users should provide.*
+   > 💡*Tip: Go the the Settings to write a clear welcome message that gets the conversation started in a productive way.*
 
-#### 5. **Enhance Your App (Optional)**
+#### 5. **Test and Refine**
+   - Use the preview panel to test interactions
+   - Adjust instructions based on the responses
+   - Consider edge cases for your use case
+   - Try different types of user inputs to ensure robust responses
+
+#### 6. **Enhance Your App (Optional)**
    - Use the **AI Assistant** to refine your instructions:
      - Click the Assistant icon in the right toolbar
      - Get feedback on your prompt's effectiveness
@@ -84,11 +90,9 @@ Your goal is to build an AI app that addresses a specific need in your education
 
    ![Screenshot showing the Starter Inputs settings in Playlab](../playlab/screenshots/ss_starter_inputs.png)
 
-#### 6. **Test and Refine**
-   - Use the preview panel to test interactions
-   - Adjust instructions based on the responses
-   - Consider edge cases for your use case
-   - Try different types of user inputs to ensure robust responses
+   - Add **References** by uploading additional documents and/or urls to enhance your app's knowledge:
+     - Perfect for educational standards, curriculum guides, or subject material
+     - The AI will use these references to guide responses
 
 #### 7. **Publish and Share**
    - Select "Workspace" or "Public" sharing option
