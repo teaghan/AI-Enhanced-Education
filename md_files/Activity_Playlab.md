@@ -42,7 +42,7 @@ Your goal is to build an AI app that addresses a specific need in your education
    > - A differentiation helper that adapts problems for various proficiency levels
 
 #### 2. **Join Playlab**
-   - Join the SD64 workspace using the <span style="color: blue;">[**invitation link**](https://www.playlab.ai/invitation/SD64-BCFJMG)</span>
+   - Join the SD64 workspace using the [**invitation link**](https://www.playlab.ai/invitation/SD64-BCFJMG)
    - Create your account or sign in
    - You'll be added to our shared workspace where you can create and test apps
 
