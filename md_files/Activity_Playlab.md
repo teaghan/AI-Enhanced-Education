@@ -8,7 +8,7 @@ layout: embed_default
 
 ---
 
-# **Activity:** Building an AI App for Your Practice
+# **Activity:** Building an AI App for *Your* Practice
 
 As experts in education, **teachers are best positioned to build AI tools** that enhance teaching and learning. This activity gives you the opportunity to create a custom AI app that serves a meaningful purpose in your teaching practice.
 
@@ -39,12 +39,12 @@ Your goal is to build an AI app that addresses a specific need in your education
 
    > *Examples:*
    > - A writing coach for students to improve their essay drafts
-   > - A lesson plan generator that aligns with state standards
-   > - A differentiation helper that adapts worksheets for various learning levels
+   > - A lesson plan generator that aligns with your teaching philosophy
+   > - A differentiation helper that adapts problems for various learning levels
    > - A project feedback assistant that provides constructive comments
 
 #### 2. **Join Playlab**
-   - Join the SD64 workspace using the [invitation link](https://www.playlab.ai/invitation/SD64-BCFJMG)
+   - Join the SD64 workspace using the [**invitation link**](https://www.playlab.ai/invitation/SD64-BCFJMG)
    - Create your account or sign in
    - You'll be added to our shared workspace where you can create and test apps
 
@@ -95,11 +95,20 @@ Your goal is to build an AI app that addresses a specific need in your education
      - The AI will use these references to guide responses
 
 #### 7. **Publish and Share**
-   - Select "Workspace" or "Public" sharing option
-   - Create a share link
-   - Open your app in a new tab to test as a user
+Choose who can access your app:
+- **Not Published**: Private access (only you)
+- **Workspace**: Available to workspace members
+- **Playlab**: Available to all Playlab users
+- **Public**: Anyone with the link can access
 
-   ![Screenshot showing the Share settings in Playlab](../playlab/screenshots/ss_share.png)
+<div class="alert alert-block alert-info">
+<h4>Important:</h4> To allow students to use your app without signing in, select "Public". Don't worry - the app is only shared with people who have the link to it!
+</div>
+
+After publishing, use the "Copy published link" button to share your app:
+
+![Screenshot showing the Share settings in Playlab](../playlab/screenshots/ss_share.png)
+
 
 #### 8. **Practice Real Usage**
    If your app is student-facing:
@@ -125,4 +134,4 @@ Your goal is to build an AI app that addresses a specific need in your education
 
 After building your app, please fill out the form below to provide feedback on the Playlab platform:
 
-<iframe src="[https://forms.gle/4X9xwWCVv5QVLw2DA]" width="640" height="1256" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://forms.gle/4X9xwWCVv5QVLw2DA/viewform?embedded=true" width="640" height="1256" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
