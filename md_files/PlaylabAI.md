@@ -134,7 +134,6 @@ Select from a range of AI models based on your needs:
 | Claude 3.7 Sonnet (Reasoning) | Step-by-step problem solving | Excellent at math, coding, explanations | Slower, less creative |
 | Gemini 2 Flash | Quick, simple tasks | Very fast responses | May miss complex instructions |
 | GPT-4o | Multi-step tasks | Well-balanced, versatile | Medium speed, can overcomplicate |
-| LearnLM | Educational contexts | Specialized for teaching/learning | Limited to educational use |
 | Llama 3.3 | General tasks, math | Strong overall performance | Slower, less precise |
 | O1 Reasoning | Complex problem-solving | Excellent reasoning, high accuracy | Slow, not for creative tasks |
 
