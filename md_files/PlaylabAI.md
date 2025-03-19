@@ -6,7 +6,6 @@ layout: embed_default
 
 **Playlab AI** is an innovative platform that enables educators to create, remix, and share custom AI-powered educational tools. The platform focuses on making AI technology accessible and collaborative for teachers to design apps tailored to their classroom needs.
 
-
 * * *
 
 ## Mission

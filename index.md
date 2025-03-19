@@ -63,7 +63,7 @@ Explore guidelines for effectively using AI in education:
 
 * [Slides](https://docs.google.com/presentation/d/18KrGvwfNbxzfIQeDKJSXSj6QbJraJMobYaX4w7tZf2I/edit?usp=sharing)
 * [Shared files](https://drive.google.com/drive/folders/18vdq4IJ5ga-im5Ac-71Fa6nXJZIexvnj?usp=drive_link)
-* Activity: [Building an AI Tutor](./md_files/Activity_AI_Tutors.html)
+* Activity: [Build an App](./md_files/Activity_AI_Tutors.html)
 
 ### 2024 Northwest Mathematics Conference: “AI-Enhanced Math”
 

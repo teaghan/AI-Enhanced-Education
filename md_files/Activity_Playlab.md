@@ -2,7 +2,13 @@
 layout: embed_default
 ---
 
-# **Building an AI App for Your Practice**
+# Playlab AI
+
+[**Playlab AI**](https://www.playlab.ai/about) is an innovative platform that enables educators to create, remix, and share custom AI-powered educational tools. The platform focuses on making AI technology accessible and collaborative for teachers to design apps tailored to their classroom needs.
+
+---
+
+# **Activity:** Building an AI App for Your Practice
 
 As experts in education, **teachers are best positioned to build AI tools** that enhance teaching and learning. This activity gives you the opportunity to create a custom AI app that serves a meaningful purpose in your teaching practice.
 
@@ -17,15 +23,28 @@ Your goal is to build an AI app that addresses a specific need in your education
 ### **Instructions**
 
 #### 1. **Brainstorm Your App's Purpose**
-   Take a moment to define:
-   - **Audience**: "I am building an app for..."
-   - **Problem**: "The problem I want to solve is..."
-   - **Solution**: "The app will..."
+   Complete each sentence in the table below to clarify your app's purpose:
 
-   > *Examples: A writing coach for students, a lesson plan generator, a differentiation helper for worksheets, or a project feedback assistant.*
+   | Component | Complete this sentence...                    |
+   |-----------|----------------------------------------------|
+   | Audience  | I am building an app for...                  |
+   |           |                                              |
+   |           |                                              |
+   | Problem   | The problem I want to solve is...            |
+   |           |                                              |
+   |           |                                              |
+   | Solution  | The app will...                              |
+   |           |                                              |
+   |           |                                              |
+
+   > *Examples:*
+   > - A writing coach for students to improve their essay drafts
+   > - A lesson plan generator that aligns with state standards
+   > - A differentiation helper that adapts worksheets for various learning levels
+   > - A project feedback assistant that provides constructive comments
 
 #### 2. **Join Playlab**
-   - Click the workspace invitation link: [Playlab Workspace] (link provided during workshop)
+   - Join the SD64 workspace using the [invitation link](https://www.playlab.ai/invitation/SD64-BCFJMG)
    - Create your account or sign in
    - You'll be added to our shared workspace where you can create and test apps
 
@@ -35,6 +54,8 @@ Your goal is to build an AI app that addresses a specific need in your education
    - You'll see two panels:
      - Left: Preview panel for testing
      - Right: Instructions panel for writing prompts
+
+> You can use the existing template to guide your instruction writing, or remove this and start from scratch!
 
    ![Screenshot showing the Create App interface in Playlab](../playlab/screenshots/ss_create_app.png)
 
@@ -87,8 +108,17 @@ Your goal is to build an AI app that addresses a specific need in your education
    - Consider how it fits into your regular routine
    - Document any adjustments needed
 
+#### 9. **Monitor Usage**
+   - Access the "Activity" tab in your App or Workspace
+   - View conversations and message counts
+   - Filter by date range to track usage over time
+   
+   > *Note: While logged-in users will show their names, external users (like students) will appear as anonymous.*
+
+   ![Screenshot showing the Activity tracking in Playlab](../playlab/screenshots/ss_activity.png)
+
 ## Feedback Form
 
 After building your app, please fill out the form below to provide feedback on the Playlab platform:
 
-<iframe src="[Feedback Form URL]" width="640" height="1256" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="[https://forms.gle/4X9xwWCVv5QVLw2DA]" width="640" height="1256" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
