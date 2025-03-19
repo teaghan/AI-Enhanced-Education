@@ -66,10 +66,13 @@ Your goal is to build an AI app that addresses a specific need in your education
 
    > 💡*Tip: Go the the Settings to write a clear welcome message that gets the conversation started in a productive way.*
 
+<div class="alert alert-block alert-info">
+<h4>User Images</h4> Within the settings, you can also turn on "Allow Image Input". Allowing users to attach images makes it much easier for students to share their work with the app because they can easily upload a photo or screenshot!
+</div>
+
 #### 5. **Test and Refine**
    - Use the preview panel to test interactions
    - Adjust instructions based on the responses
-   - Consider edge cases for your use case
    - Try different types of user inputs to ensure robust responses
 
 #### 6. **Enhance Your App (Optional)**
