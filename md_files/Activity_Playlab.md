@@ -103,7 +103,7 @@ Choose who can access your app:
 - **Public**: Anyone with the link can access
 
 <div class="alert alert-block alert-info">
-<h4>Important:</h4> To allow students to use your app without signing in, select "Public". Don't worry - the app is only shared with people who have the link to it!
+<h4>Allowing Student Access</h4> To allow students to use your app without signing in, select "Public". Don't worry - the app is only shared with people who have the link to it!
 </div>
 
 After publishing, use the "Copy published link" button to share your app:
@@ -135,4 +135,4 @@ After publishing, use the "Copy published link" button to share your app:
 
 After building your app, please fill out the form below to provide feedback on the Playlab platform:
 
-<iframe src="https://forms.gle/4X9xwWCVv5QVLw2DA/viewform?embedded=true" width="640" height="1256" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJbwKL6KAdIg3RxyR3kRzbGCqVLg88hnZcMBfVoayHHHFurw/viewform?embedded=true" width="640" height="1256" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
