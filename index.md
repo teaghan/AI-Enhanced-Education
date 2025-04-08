@@ -57,18 +57,18 @@ Explore guidelines for effectively using AI in education:
 
 * [Slides]()
 * [Shared files]()
-* Activity: [Building an AI App for *Your* Practice](https://docs.google.com/document/d/1yfvA1pcEvkCdy2660VJa1nYGPViHe3dQHWkfKurgGcw/edit?usp=sharing)
+* Activity: [Building an AI App for *Your* Practice](https://docs.google.com/document/d/1yfvA1pcEvkCdy2660VJa1nYGPViHe3dQHWkfKurgGcw/edit?usp=sharing){:target="_blank"}
 
 ### SD64 School-Based Pro-D (Nov 29, 2024): “Empowering Educators with AI”
 
-* [Slides](https://docs.google.com/presentation/d/18KrGvwfNbxzfIQeDKJSXSj6QbJraJMobYaX4w7tZf2I/edit?usp=sharing)
-* [Shared files](https://drive.google.com/drive/folders/18vdq4IJ5ga-im5Ac-71Fa6nXJZIexvnj?usp=drive_link)
+* [Slides](https://docs.google.com/presentation/d/18KrGvwfNbxzfIQeDKJSXSj6QbJraJMobYaX4w7tZf2I/edit?usp=sharing){:target="_blank"}
+* [Shared files](https://drive.google.com/drive/folders/18vdq4IJ5ga-im5Ac-71Fa6nXJZIexvnj?usp=drive_link){:target="_blank"}
 * Activity: [Build an AI Tutor](./md_files/Activity_AI_Tutors.html)
 
 ### 2024 Northwest Mathematics Conference: “AI-Enhanced Math”
 
-* [Slides](https://docs.google.com/presentation/d/1XvLK6Q0WnCPZN0WmOnhzYU0xC_AZ0TxBp1ujS4tirCw/edit?usp=sharing)
-* [Shared files](https://drive.google.com/drive/folders/1GMYNcPfXtmcpKr8q8RwdVeR0MNhMyUSB?usp=drive_link)
+* [Slides](https://docs.google.com/presentation/d/1XvLK6Q0WnCPZN0WmOnhzYU0xC_AZ0TxBp1ujS4tirCw/edit?usp=sharing){:target="_blank"}
+* [Shared files](https://drive.google.com/drive/folders/1GMYNcPfXtmcpKr8q8RwdVeR0MNhMyUSB?usp=drive_link){:target="_blank"}
 * Activity #1: [Writing Prompts](./md_files/Activity_1.html)
 * Activity #2: [Content Creation](./md_files/Activity_2.html)
 * Activity #3: [Building AI Tutors](./md_files/Activity_3.html)
