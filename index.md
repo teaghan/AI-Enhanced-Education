@@ -55,8 +55,7 @@ Explore guidelines for effectively using AI in education:
 
 ### SD64 School-Based Pro-D (Apr 11, 2025): “Getting Started with Playlab”
 
-* [Slides]()
-* [Shared files]()
+* [Slides](https://docs.google.com/presentation/d/1WnhJ6q4X_NessXZ1K-ZE_lSNUb1GAfjClgAr48Loghs/edit?usp=sharing)
 * Activity: [Building an AI App for *Your* Practice](https://docs.google.com/document/d/1yfvA1pcEvkCdy2660VJa1nYGPViHe3dQHWkfKurgGcw/edit?usp=sharing){:target="_blank"}
 
 ### SD64 School-Based Pro-D (Nov 29, 2024): “Empowering Educators with AI”
